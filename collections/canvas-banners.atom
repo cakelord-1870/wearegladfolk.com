@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wearegladfolk.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wearegladfolk.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wearegladfolk.com/collections/canvas-banners.atom"/>
+  <title>Gladfolk</title>
+  <updated>2021-04-09T16:20:18-04:00</updated>
+  <author>
+    <name>Gladfolk</name>
+  </author>
+  <entry>
+    <id>https://wearegladfolk.com/products/6550686204022</id>
+    <published>2021-04-09T16:20:18-04:00</published>
+    <updated>2021-04-09T16:20:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/forever-young-canvas-banner"/>
+    <title>Forever Young Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/ForeverYoungBannerListing2.jpg?v=1617999583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">"Forever Young"</span></p>
+<meta charset="utf-8">
+<p class="p1"><span class="s1">Add texture and personality to your walls with this fun phrase featuring a modern typeface printed in our signature camel ink color.</span></p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Back to school</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Forever Young</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>Schoolhouse</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550686204022</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6538351870070</id>
+    <published>2021-03-03T16:47:49-05:00</published>
+    <updated>2021-03-03T16:47:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/its-all-good-in-the-childhood-canvas-banner"/>
+    <title>It&apos;s All Good in the Childhood Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/ChildhoodBannerListing1.jpg?v=1614808042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">"It's All Good in the Childhood"</span></p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand. Featuring a retro-modern typeface, this fun banner for littles is a charming play on words and embraces the carefree attitude of childhood.</span></p>
+<p class="p2">Each individual banner measures 14" wide by 20" tall from the top of the canvas to the bottom point.<br><span class="s1"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Good In the Childhood</s:tag>
+    <s:tag>American Made</s:tag>
+    <s:tag>Banner</s:tag>
+    <s:tag>Calligraphy_Wall_Art</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Childhood</s:tag>
+    <s:tag>Entryway Decor</s:tag>
+    <s:tag>Entryway Sign</s:tag>
+    <s:tag>Fabric_wall_art</s:tag>
+    <s:tag>Farmhouse_Decor</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>House and Home</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6538351870070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6538349248630</id>
+    <published>2021-03-03T16:12:30-05:00</published>
+    <updated>2021-03-03T16:12:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/house-and-home-canvas-banner"/>
+    <title>House and Home Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/HouseHomeBannerListing1.jpg?v=1614805905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">"A house is made with walls &amp; beams | A home is built with love &amp; dreams." - Ralph Waldo Emerson </span></p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand. A lovely reminder in modern typography, perfect for any room of your home! </span></p>
+<p class="p2">Each individual banner measures 14" wide by 20" tall from the top of the canvas to the bottom point.<br><span class="s1"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A Home is Made</s:tag>
+    <s:tag>A House is Built</s:tag>
+    <s:tag>American Made</s:tag>
+    <s:tag>Banner</s:tag>
+    <s:tag>Calligraphy_Wall_Art</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Emerson</s:tag>
+    <s:tag>Entryway Decor</s:tag>
+    <s:tag>Entryway Sign</s:tag>
+    <s:tag>Fabric_wall_art</s:tag>
+    <s:tag>Farmhouse_Decor</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>House and Home</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Love and Dreams</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6538349248630</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6538348691574</id>
+    <published>2021-03-03T16:09:57-05:00</published>
+    <updated>2021-03-03T16:09:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/perfect-is-boring-canvas-banner"/>
+    <title>Perfect is Boring Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/PerfectisBoringBannerListing1.jpg?v=1614805754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">"Perfect is Boring"</span></p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand. A lovely reminder for any child's bedroom or play area! </span></p>
+<p class="p2">Each individual banner measures 14" wide by 20" tall from the top of the canvas to the bottom point.<br><span class="s1"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Banner</s:tag>
+    <s:tag>Calligraphy_Wall_Art</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Entryway Decor</s:tag>
+    <s:tag>Entryway Sign</s:tag>
+    <s:tag>Fabric_wall_art</s:tag>
+    <s:tag>Farmhouse_Decor</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Perfect is Boring</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6538348691574</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4435841056886</id>
+    <published>2020-03-17T15:26:05-04:00</published>
+    <updated>2020-03-17T15:26:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/vintage-food-conservation-canvas-banner"/>
+    <title>Vintage Food Rules Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/FoodPropagandaBannerListing1.jpg?v=1584473205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">FOOD<br>Buy it with thought<br>Cook it with care<br>Use less wheat &amp; meat<br>Buy local foods<br>Serve just enough<br>Use what is left<br>Don't waste it<br>- US Food Administration -</span></p>
+<p class="p1">A modern take on vintage kitchen values, straight from the generation who survived World War 1! May we still strive to source and prepare our food with care, to reduce waste, and to be conscious consumers today.</p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Don&apos;t Waste Food</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Food Propaganda</s:tag>
+    <s:tag>Food Rules</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Kitchen</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>Schoolhouse</s:tag>
+    <s:tag>Schoolhouse style</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Vintage Food Poster</s:tag>
+    <s:tag>Vintage Food Rules</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:tag>WW1 Poster</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4435841056886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4432268689526</id>
+    <published>2020-03-10T15:37:48-04:00</published>
+    <updated>2020-03-10T15:37:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/i-believe-in-miracles-rainbow-canvas-banner"/>
+    <title>I Believe In Miracles Rainbow Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Miracles_Rainbow_Banner_Listing_3.jpg?v=1583869111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">"I Believe In Miracles"</span></p>
+<meta charset="utf-8">
+<p class="p1"><span class="s1">Add texture and personality to your walls with this hope-filled phrase and modern line art rainbow.</span></p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Miracles</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Schoolhouse</s:tag>
+    <s:tag>Schoolhouse style</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Vintage Schoohouse</s:tag>
+    <s:tag>Waldorf</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4432268689526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4432267575414</id>
+    <published>2020-03-10T15:35:50-04:00</published>
+    <updated>2020-03-10T15:35:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/life-must-be-lived-as-play-canvas-banner"/>
+    <title>Life Must Be Lived As Play Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Life_Must_Be_Lived_As_Play_Banner_Listing_2.jpg?v=1583868988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">"Life Must Be Lived As Play" - Plato</span></p>
+<meta charset="utf-8">
+<p class="p1"><span class="s1">Add texture and personality to your walls with these wise words from Plato.</span></p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Back to school</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Life Must Be Lived As Play</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Plato</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>Schoolhouse</s:tag>
+    <s:tag>Schoolhouse style</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Vintage Schoohouse</s:tag>
+    <s:tag>Waldorf</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4432267575414</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4432265052278</id>
+    <published>2020-03-10T15:32:22-04:00</published>
+    <updated>2020-03-10T15:32:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/let-nature-be-your-teacher-canvas-banner-1"/>
+    <title>Let Nature Be Your Teacher Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Let_Nature_Be_Your_Teacher_Banner_Listing_2.jpg?v=1583868796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p class="p1"><span class="s1">"Let Nature Be Your Teacher"</span></p>
+<meta charset="utf-8">
+<p class="p1"><span class="s1">Add texture and personality to your walls while reminding yourself of poet William Wordsworth's wise words.</span></p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Back to school</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Let Nature Be Your Teacher</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>Play Sign</s:tag>
+    <s:tag>Schoolhouse</s:tag>
+    <s:tag>Schoolhouse style</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Vintage Schoohouse</s:tag>
+    <s:tag>Waldorf</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4432265052278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4432261415030</id>
+    <published>2020-03-10T15:27:19-04:00</published>
+    <updated>2020-03-10T15:27:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/a-happy-talent-canvas-banner"/>
+    <title>A Happy Talent Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Happy_Talent_Banner_Listing_1.jpg?v=1583868465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">"It Is A Happy Talent To Know How To Play" - Ralph Waldo Emerson</span></p>
+<meta charset="utf-8">
+<p class="p1"><span class="s1">Add texture and personality to your walls with these wise words from </span><span>Ralph Waldo Emerson</span>.</p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A Happy Talent</s:tag>
+    <s:tag>American Made</s:tag>
+    <s:tag>Back to school</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Know How To Play</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>Schoolhouse</s:tag>
+    <s:tag>Schoolhouse style</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Vintage Schoohouse</s:tag>
+    <s:tag>Waldorf</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4432261415030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4432260038774</id>
+    <published>2020-03-10T15:25:44-04:00</published>
+    <updated>2020-03-10T15:25:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/good-old-days-canvas-banner"/>
+    <title>Good Old Days Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Good_Old_Days_Banner_Listing_1.jpg?v=1583868390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">"These Are The Good Old Days"</span></p>
+<meta charset="utf-8">
+<p class="p1"><span class="s1">Add texture and personality to your walls while reminding yourself that these really are the good old days.</span></p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Good Old Days</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>Schoolhouse</s:tag>
+    <s:tag>Schoolhouse style</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>These Are The Good Old Days</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Vintage Schoohouse</s:tag>
+    <s:tag>Waldorf</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4432260038774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4432257482870</id>
+    <published>2020-03-10T15:22:09-04:00</published>
+    <updated>2020-03-10T15:22:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/go-play-outside-canvas-banner"/>
+    <title>Go Play Outside Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Go_Play_Outside_Banner_Listing_2.jpg?v=1583868223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">"Go Play Outside"</span></p>
+<meta charset="utf-8">
+<p class="p1"><span class="s1">Add texture and personality to your walls while reminding your little ones to get some fresh air!</span></p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand.</span></p>
+<p class="p2"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Back to school</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Go Play Outside</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>Play Sign</s:tag>
+    <s:tag>Schoolhouse</s:tag>
+    <s:tag>Schoolhouse style</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Vintage Schoohouse</s:tag>
+    <s:tag>Waldorf</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4432257482870</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/1837347307555</id>
+    <published>2019-08-05T11:19:10-04:00</published>
+    <updated>2019-08-05T11:19:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/every-child-is-an-artist-picasso-canvas-banner"/>
+    <title>Every Child Is An Artist Picasso Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Every_Child_Is_An_Artist_Banner_Listing_1.jpg?v=1565018459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span>"Every Child Is An Artist" - Picasso</span></p>
+<p class="p1"><span>This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand. A lovely reminder from Picasso to explore our creativity and enjoy the magical freedom of childhood. Perfect for a child's play room, craft space, or Montessori-style learning environment.</span></p>
+<p class="p2">Each individual banner measures 14" wide by 20" tall from the top of the canvas to the bottom point.<br><span class="s1"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Artist Quote</s:tag>
+    <s:tag>Back to school</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Child&apos;s Play</s:tag>
+    <s:tag>Every Child Is An Artist</s:tag>
+    <s:tag>Every Child Is An Artist Banner</s:tag>
+    <s:tag>Every Child Is An Artist Quote</s:tag>
+    <s:tag>Every Child Is An Artist Sign</s:tag>
+    <s:tag>Fabric_wall_art</s:tag>
+    <s:tag>Farmhouse Play Sign</s:tag>
+    <s:tag>Farmhouse_Decor</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Homeschool</s:tag>
+    <s:tag>Homeschool Decor</s:tag>
+    <s:tag>Homeschool Sign</s:tag>
+    <s:tag>Homeschool Style</s:tag>
+    <s:tag>Hospitality</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Art Room</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>Montessori Art</s:tag>
+    <s:tag>Montessori Baby</s:tag>
+    <s:tag>Montessori Decor</s:tag>
+    <s:tag>Montessori Kids</s:tag>
+    <s:tag>Montessori Learning</s:tag>
+    <s:tag>Montessori Sign</s:tag>
+    <s:tag>Montessori Toddler</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Picasso Art Quote</s:tag>
+    <s:tag>Picasso Quote</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>Play Sign</s:tag>
+    <s:tag>Play Signage</s:tag>
+    <s:tag>Schoolhouse</s:tag>
+    <s:tag>Schoolhouse style</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Vintage Schoohouse</s:tag>
+    <s:tag>Waldorf</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1837347307555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/1378765471779</id>
+    <published>2018-01-17T02:51:31-05:00</published>
+    <updated>2018-01-17T02:51:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/schoolhouse-alphabet-canvas-banner"/>
+    <title>Schoolhouse Alphabet Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/ABC_Banner_Listing_1.jpg?v=1534261278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1"></span><span class="s1">This schoolhouse-inspired banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand. </span></p>
+<p class="p1">Featuring a vintage-style serif typeface, this sweet banner is perfect for a child's play room, nursery, or homeschool learning environment. </p>
+<p class="p2">Each individual banner measures 14" wide by 20" tall from the top of the canvas to the bottom point.<br><span class="s1"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ABC Banner</s:tag>
+    <s:tag>ABC Chart</s:tag>
+    <s:tag>ABC Play Room Decor</s:tag>
+    <s:tag>Alphabet</s:tag>
+    <s:tag>Alphabet Art</s:tag>
+    <s:tag>Alphabet Banner</s:tag>
+    <s:tag>Alphabet Chart</s:tag>
+    <s:tag>Alphabet Decor</s:tag>
+    <s:tag>Alphabet Wall Hanging</s:tag>
+    <s:tag>alphabet_poster</s:tag>
+    <s:tag>American Made</s:tag>
+    <s:tag>Back to school</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Child&apos;s Play</s:tag>
+    <s:tag>Fabric_wall_art</s:tag>
+    <s:tag>Farmhouse Play Sign</s:tag>
+    <s:tag>Farmhouse_Decor</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Homeschool</s:tag>
+    <s:tag>Homeschool Decor</s:tag>
+    <s:tag>Homeschool Sign</s:tag>
+    <s:tag>Homeschool Style</s:tag>
+    <s:tag>Hospitality</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>Montessori Art</s:tag>
+    <s:tag>Montessori Baby</s:tag>
+    <s:tag>Montessori Decor</s:tag>
+    <s:tag>Montessori Kids</s:tag>
+    <s:tag>Montessori Learning</s:tag>
+    <s:tag>Montessori Quote</s:tag>
+    <s:tag>Montessori Quote Art</s:tag>
+    <s:tag>Montessori Sign</s:tag>
+    <s:tag>Montessori Toddler</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>Play Sign</s:tag>
+    <s:tag>Play Signage</s:tag>
+    <s:tag>Schoolhouse</s:tag>
+    <s:tag>Schoolhouse Decor</s:tag>
+    <s:tag>Schoolhouse style</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Vintage Schoohouse</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1378765471779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/1378763767843</id>
+    <published>2018-01-17T02:51:31-05:00</published>
+    <updated>2018-01-17T02:51:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/play-is-the-work-of-the-child-montessori-canvas-banner"/>
+    <title>Play Is The Work Of The Child Montessori Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Play_Banner_Listing_1.jpg?v=1534260734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">"Play Is The Work Of The Child" - M. Montessori</span></p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand. A lovely reminder from Maria Montessori to slow down, play, and enjoy the magical essence of childhood. Perfect for a child's play room or a Montessori-style learning environment. </span></p>
+<p class="p2">Each individual banner measures 14" wide by 20" tall from the top of the canvas to the bottom point.<br><span class="s1"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Back to school</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Calligraphy_Wall_Art</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Child&apos;s Play</s:tag>
+    <s:tag>Fabric_wall_art</s:tag>
+    <s:tag>Farmhouse Play Sign</s:tag>
+    <s:tag>Farmhouse_Decor</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Homeschool</s:tag>
+    <s:tag>Homeschool Decor</s:tag>
+    <s:tag>Homeschool Sign</s:tag>
+    <s:tag>Homeschool Style</s:tag>
+    <s:tag>Hospitality</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>Montessori Art</s:tag>
+    <s:tag>Montessori Baby</s:tag>
+    <s:tag>Montessori Decor</s:tag>
+    <s:tag>Montessori Kids</s:tag>
+    <s:tag>Montessori Learning</s:tag>
+    <s:tag>Montessori Quote</s:tag>
+    <s:tag>Montessori Quote Art</s:tag>
+    <s:tag>Montessori Sign</s:tag>
+    <s:tag>Montessori Toddler</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Play Is The Work Of The Child</s:tag>
+    <s:tag>Play Is Work</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>Play Sign</s:tag>
+    <s:tag>Play Signage</s:tag>
+    <s:tag>Schoolhouse</s:tag>
+    <s:tag>Schoolhouse style</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Vintage Schoohouse</s:tag>
+    <s:tag>Waldorf</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1378763767843</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/544588038179</id>
+    <published>2018-01-17T02:51:31-05:00</published>
+    <updated>2018-01-17T02:51:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/be-kind-canvas-banner"/>
+    <title>Be Kind Canvas Banner</title>
+    <s:type>Canvas Banners</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Be_Kind_Banner_Listing_1.jpg?v=1521473490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Banners<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">"Be Kind"</span></p>
+<p class="p1"><span class="s1">This modern banner is a lovely mix of neutral, natural materials - including canvas, oak wood, and cotton twine - with all materials sourced in the United States, sewn locally, and printed in-house by hand. A lovely reminder for any home's living room or play area! </span></p>
+<p class="p2">Each individual banner measures 14" wide by 20" tall from the top of the canvas to the bottom point.<br><span class="s1"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Banner</s:tag>
+    <s:tag>Be Kind</s:tag>
+    <s:tag>Be Kind Artwork</s:tag>
+    <s:tag>Be Kind Baby</s:tag>
+    <s:tag>Be Kind Kids Room</s:tag>
+    <s:tag>Calligraphy_Wall_Art</s:tag>
+    <s:tag>canvas</s:tag>
+    <s:tag>Canvas_banner</s:tag>
+    <s:tag>Canvas_wall_art</s:tag>
+    <s:tag>Entryway Decor</s:tag>
+    <s:tag>Entryway Sign</s:tag>
+    <s:tag>Fabric_wall_art</s:tag>
+    <s:tag>Farmhouse_Decor</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Farmhouse_wall_art</s:tag>
+    <s:tag>Guest Room</s:tag>
+    <s:tag>Guest Room Decor</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hanging_wall_art</s:tag>
+    <s:tag>Home_Decor</s:tag>
+    <s:tag>Hospitality</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kids Artwork</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Nursery Decor</s:tag>
+    <s:tag>Play Room</s:tag>
+    <s:tag>Play room decor</s:tag>
+    <s:tag>Toddler Room</s:tag>
+    <s:tag>Wall_art</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/544588038179</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

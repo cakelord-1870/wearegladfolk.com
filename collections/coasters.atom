@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wearegladfolk.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wearegladfolk.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wearegladfolk.com/collections/coasters.atom"/>
+  <title>Gladfolk</title>
+  <updated>2020-02-14T15:31:33-05:00</updated>
+  <author>
+    <name>Gladfolk</name>
+  </author>
+  <entry>
+    <id>https://wearegladfolk.com/products/4414832312438</id>
+    <published>2020-02-14T15:31:33-05:00</published>
+    <updated>2020-02-14T15:31:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/copy-of-boho-custom-city-state-badge-wooden-coasters-handmade-set-of-4"/>
+    <title>Bottoms Up Modern Wooden Coasters • Handmade Set of 4</title>
+    <s:type>Coasters</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Bottoms_Up_Coasters_Listing_1.jpg?v=1581712340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Coasters<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Bottoms up! Cheers to this cozy home accent - handmade wooden coasters add a bit of form, function, and flair to your space or make for a perfect housewarming gift.</span></p>
+<p>Each piece is designed with love &amp; made by hand in our Ohio workshop from locally sourced lumber. Each coaster measures approximately 4.5" on all sides.</p>
+<p>Made of cherry hardwood and sealed with care. Includes 4 square coasters in each set.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coasters</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4414832312438</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4414827495542</id>
+    <published>2020-02-14T15:27:47-05:00</published>
+    <updated>2020-02-14T15:27:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/copy-of-custom-city-state-wooden-coasters-handmade-set-of-4"/>
+    <title>Boho Custom City &amp; State Badge Wooden Coasters • Handmade Set of 4</title>
+    <s:type></s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Boho_City_State_Coasters_Listing_3.jpg?v=1581712208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Cherish where you call home! </span><span>Our Boho Custom City &amp; State Coasters feature a modern minimalist layout with crisp typography for a personalized home accent or memorable gift.</span></p>
+<p>Each piece is designed with love &amp; made by hand in our Ohio workshop from locally sourced lumber. Each coaster measures approximately 4.5" on all sides.</p>
+<p>Made of cherry hardwood and sealed with care. Includes 4 square coasters in each set.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coasters</s:tag>
+    <s:tag>Fathers Day 2020</s:tag>
+    <s:tag>Mothers Day 2020</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4414827495542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4414825693302</id>
+    <published>2020-02-14T15:17:06-05:00</published>
+    <updated>2020-02-14T15:17:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/custom-city-state-wooden-coasters-handmade-set-of-4"/>
+    <title>Custom City State Wooden Coasters • Handmade Set of 4</title>
+    <s:type></s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Modern_Custom_City_State_Coaster_Listing_1.jpg?v=1581711657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Celebrate local pride! Our Custom City &amp; State Coasters feature an engraved state silhouette, star on the city of your choice, and a modern typographic layout for a modern home accent or memorable gift.</span></p>
+<p>Each piece is designed with love &amp; made by hand in our Ohio workshop from locally sourced lumber. Each coaster measures approximately 4.5" on all sides.</p>
+<p>Made of cherry hardwood and sealed with care. Includes 4 square coasters in each set.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coasters</s:tag>
+    <s:tag>Fathers Day 2020</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4414825693302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

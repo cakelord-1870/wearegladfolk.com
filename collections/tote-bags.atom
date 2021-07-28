@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wearegladfolk.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wearegladfolk.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wearegladfolk.com/collections/tote-bags.atom"/>
+  <title>Gladfolk</title>
+  <updated>2018-01-17T02:52:01-05:00</updated>
+  <author>
+    <name>Gladfolk</name>
+  </author>
+  <entry>
+    <id>https://wearegladfolk.com/products/1567829000227</id>
+    <published>2018-01-17T02:52:01-05:00</published>
+    <updated>2018-01-17T02:52:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/reduce-reuse-recycle-canvas-tote-bag"/>
+    <title>Reduce Reuse Recycle Canvas Tote Bag</title>
+    <s:type>Canvas Tote Bags</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Reduce_Reuse_Recycle_Tote_Bag_Listing.jpg?v=1551732993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Tote Bags<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>"Reduce Reuse Recycle"</p><p>Designed with love and printed by hand, this eco-conscious bag is perfect for those who care dearly for Mother Earth and the rhythms we can incorporate to treat her well!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A&amp;A</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags_And_Purses</s:tag>
+    <s:tag>Canvas Tote Bag</s:tag>
+    <s:tag>Cotton Canvas Bag</s:tag>
+    <s:tag>Earth Day Bag</s:tag>
+    <s:tag>Earth Day Tote Bag</s:tag>
+    <s:tag>fruit_bag</s:tag>
+    <s:tag>gift_for_women</s:tag>
+    <s:tag>grocery_sack</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Modern Typographic Tote Bag</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>produce_bag</s:tag>
+    <s:tag>Recycle</s:tag>
+    <s:tag>Recycle Tote Bag</s:tag>
+    <s:tag>Reduce</s:tag>
+    <s:tag>Reduce Reuse Recycle</s:tag>
+    <s:tag>Reusable Grocery Bag</s:tag>
+    <s:tag>Reusable Tote</s:tag>
+    <s:tag>Reuse</s:tag>
+    <s:tag>Save The Earth Tote</s:tag>
+    <s:tag>SS19</s:tag>
+    <s:tag>Tote Bag</s:tag>
+    <s:tag>tote_bag</s:tag>
+    <s:tag>typographic_tote_bag</s:tag>
+    <s:tag>World Map Tote</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1567829000227</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/1567788826659</id>
+    <published>2018-01-17T02:52:01-05:00</published>
+    <updated>2018-01-17T02:52:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/mamas-big-bag-o-tricks-canvas-tote-bag"/>
+    <title>Mama&apos;s Big Bag O&apos; Tricks Canvas Tote Bag</title>
+    <s:type>Canvas Tote Bags</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Bag_O_Tricks_Tote_Bag_Listing_2.jpg?v=1551731533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Tote Bags<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>"Mamas Big Bag O' Tricks • Keep Out"</p><p>Designed with love and printed by hand, this bag makes a fun gift for the busy mama who carries her magic with her!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A&amp;A</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bag O Tricks</s:tag>
+    <s:tag>Bags_And_Purses</s:tag>
+    <s:tag>Canvas Tote Bag</s:tag>
+    <s:tag>Cool Mom Tote</s:tag>
+    <s:tag>Cotton Canvas Bag</s:tag>
+    <s:tag>fruit_bag</s:tag>
+    <s:tag>gift_for_women</s:tag>
+    <s:tag>grocery_sack</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Keep Out</s:tag>
+    <s:tag>Mama Gift</s:tag>
+    <s:tag>Mama Tote Bag</s:tag>
+    <s:tag>Mamas Bag</s:tag>
+    <s:tag>Mom Bag</s:tag>
+    <s:tag>Mom Tote Bag</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>produce_bag</s:tag>
+    <s:tag>Reusable Grocery Bag</s:tag>
+    <s:tag>Reusable Tote</s:tag>
+    <s:tag>SS19</s:tag>
+    <s:tag>Tote Bag</s:tag>
+    <s:tag>tote_bag</s:tag>
+    <s:tag>typographic_tote_bag</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1567788826659</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/1567773949987</id>
+    <published>2018-01-17T02:52:01-05:00</published>
+    <updated>2018-01-17T02:52:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/shop-local-canvas-tote-bag"/>
+    <title>Shop Local Canvas Tote Bag</title>
+    <s:type>Canvas Tote Bags</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Shop_Local_Tote_Bag_Listing.jpg?v=1551731122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Tote Bags<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>"Shop Local"</p><p>Designed with love and printed by hand, this heavy canvas tote bag is the perfect eco-conscious companion for your local market trips!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A&amp;A</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags_And_Purses</s:tag>
+    <s:tag>Canvas Tote Bag</s:tag>
+    <s:tag>Cotton Canvas Bag</s:tag>
+    <s:tag>Farmer Tote Bag</s:tag>
+    <s:tag>Farmers Market Bag</s:tag>
+    <s:tag>Farmers Market Tote</s:tag>
+    <s:tag>farmers_market</s:tag>
+    <s:tag>fruit_bag</s:tag>
+    <s:tag>gift_for_women</s:tag>
+    <s:tag>grocery_sack</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Local Pride</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>produce_bag</s:tag>
+    <s:tag>Reusable Grocery Bag</s:tag>
+    <s:tag>Reusable Tote</s:tag>
+    <s:tag>Shop Local</s:tag>
+    <s:tag>Shop Local Bag</s:tag>
+    <s:tag>Shop Local Tote</s:tag>
+    <s:tag>Shop Local Tote Bag</s:tag>
+    <s:tag>SS19</s:tag>
+    <s:tag>Tote Bag</s:tag>
+    <s:tag>tote_bag</s:tag>
+    <s:tag>travel_tote</s:tag>
+    <s:tag>typographic_tote_bag</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1567773949987</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/1567742197795</id>
+    <published>2018-01-17T02:52:01-05:00</published>
+    <updated>2018-01-17T02:52:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/garden-girl-canvas-tote-bag"/>
+    <title>Garden Girl Canvas Tote Bag</title>
+    <s:type>Canvas Tote Bags</s:type>
+    <s:vendor>The Oyster&apos;s Pearl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Garden_Girl_Tote_Bag_Listing_2.jpg?v=1551730209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Oyster&#39;s Pearl<br>
+        <strong>Type: </strong>Canvas Tote Bags<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>"Garden Girl"</p><p>Designed with love and printed by hand, this heavy canvas tote bag is perfect for the gardener, outdoors enthusiast, farmer, or market meanderer! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A&amp;A</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags_And_Purses</s:tag>
+    <s:tag>Canvas Tote Bag</s:tag>
+    <s:tag>Cotton Canvas Bag</s:tag>
+    <s:tag>Farm To Table</s:tag>
+    <s:tag>Farmer Tote Bag</s:tag>
+    <s:tag>Farmers Market Bag</s:tag>
+    <s:tag>Farmers Market Tote</s:tag>
+    <s:tag>farmers_market</s:tag>
+    <s:tag>fruit_bag</s:tag>
+    <s:tag>Garden Girl</s:tag>
+    <s:tag>Garden Girl Bag</s:tag>
+    <s:tag>Garden Girl Tote</s:tag>
+    <s:tag>Garden Girl Tote Bag</s:tag>
+    <s:tag>gift_for_women</s:tag>
+    <s:tag>grocery_sack</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>produce_bag</s:tag>
+    <s:tag>Reusable Grocery Bag</s:tag>
+    <s:tag>Reusable Tote</s:tag>
+    <s:tag>SS19</s:tag>
+    <s:tag>Tote Bag</s:tag>
+    <s:tag>tote_bag</s:tag>
+    <s:tag>travel_tote</s:tag>
+    <s:tag>typographic_tote_bag</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1567742197795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/1567713329187</id>
+    <published>2018-01-17T02:52:01-05:00</published>
+    <updated>2018-01-17T02:52:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/fresh-and-local-canvas-tote-bag"/>
+    <title>Fresh and Local Canvas Tote Bag</title>
+    <s:type>Canvas Tote Bags</s:type>
+    <s:vendor>The Oyster&apos;s Pearl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Fresh_and_Local_Tote_Bag_Listing_2.jpg?v=1551730085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Oyster&#39;s Pearl<br>
+        <strong>Type: </strong>Canvas Tote Bags<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>"Fresh and Local"</p><p>Designed with love and printed by hand, this heavy canvas tote bag is perfect for those who love shopping local and eating fresh!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A&amp;A</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags_And_Purses</s:tag>
+    <s:tag>Canvas Tote Bag</s:tag>
+    <s:tag>Cotton Canvas Bag</s:tag>
+    <s:tag>Farm To Table</s:tag>
+    <s:tag>Farmer Tote Bag</s:tag>
+    <s:tag>Farmers Market Bag</s:tag>
+    <s:tag>Farmers Market Tote</s:tag>
+    <s:tag>farmers_market</s:tag>
+    <s:tag>Fresh and Local</s:tag>
+    <s:tag>Fresh and Local Bag</s:tag>
+    <s:tag>Fresh and Local Tote</s:tag>
+    <s:tag>fruit_bag</s:tag>
+    <s:tag>funny_tote_bag</s:tag>
+    <s:tag>gift_for_women</s:tag>
+    <s:tag>grocery_sack</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>produce_bag</s:tag>
+    <s:tag>Reusable Grocery Bag</s:tag>
+    <s:tag>Reusable Tote</s:tag>
+    <s:tag>SS19</s:tag>
+    <s:tag>Tote Bag</s:tag>
+    <s:tag>tote_bag</s:tag>
+    <s:tag>travel_tote</s:tag>
+    <s:tag>typographic_tote_bag</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1567713329187</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/477516300323</id>
+    <published>2018-01-17T02:38:20-05:00</published>
+    <updated>2018-01-17T02:38:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/im-not-a-regular-mom-im-a-cool-mom-tote-bag-funny-typographic-mean-girls-cotton-canvas-tote-bag-reusable-grocery-bag-free-shipping"/>
+    <title>I&apos;m Not A Regular Mom, I&apos;m A Cool Mom Canvas Tote Bag</title>
+    <s:type>Canvas Tote Bags</s:type>
+    <s:vendor>The Oyster&apos;s Pearl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/il_fullxfull.1082357601_kte7.jpg?v=1516174701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Oyster&#39;s Pearl<br>
+        <strong>Type: </strong>Canvas Tote Bags<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"I'm Not A Regular Mom, I'm A Cool Mom"</p>
+<p>Mrs. George said it best! Featured in a distressed modern typeface, this funny tote for mamas was designed with love and screen printed by hand. Constructed of very soft cotton canvas, this tote is the perfect size for a quick run to the local library, farmers market, or anywhere you need to tote along your belongings - and look cool (not regular) while doing it!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A&amp;A</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags_And_Purses</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Cool_Mom</s:tag>
+    <s:tag>Cool_Mom_bag</s:tag>
+    <s:tag>Cool_Mom_tote</s:tag>
+    <s:tag>Cool_Mom_tote_bag</s:tag>
+    <s:tag>Diaper_Bag</s:tag>
+    <s:tag>Funny_tote_bag</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>I&apos;m_A_Cool_Mom</s:tag>
+    <s:tag>Mean_Girls</s:tag>
+    <s:tag>Mean_Girls_bag</s:tag>
+    <s:tag>Mom_Bag</s:tag>
+    <s:tag>Mothers Day 2020</s:tag>
+    <s:tag>Not_A_Regular_Mom</s:tag>
+    <s:tag>Regular_Mom</s:tag>
+    <s:tag>Tote_Bag</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/477516300323</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/477515612195</id>
+    <published>2018-01-17T02:37:25-05:00</published>
+    <updated>2018-01-17T02:37:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/farmers-are-heroes-tote-bag-design-farmers-market-cotton-canvas-tote-bag-hand-printed-vintage-typographic-tote-free-shipping"/>
+    <title>Farmers Are Heroes Canvas Tote Bag</title>
+    <s:type>Canvas Tote Bags</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/il_fullxfull.1348591883_je7c.jpg?v=1516174646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Canvas Tote Bags<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Farmers Are Heroes"</p>
+<p>Where would we be without them? Sing their praises with this unique vintage-inspired typographic tote bag. Constructed with a nice, soft cotton canvas, this tote is the perfect size for a quick run to the library or farmers market. Designed with love and printed by hand, this bag makes a great gift for anyone who loves farmers and the valuable work they do!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A&amp;A</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bags_And_Purses</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>canvas_tote_bag</s:tag>
+    <s:tag>farm</s:tag>
+    <s:tag>farmer_bag</s:tag>
+    <s:tag>farmer_tote_bag</s:tag>
+    <s:tag>farmers</s:tag>
+    <s:tag>farmers_are_heroes</s:tag>
+    <s:tag>farmers_market</s:tag>
+    <s:tag>gardener_gift</s:tag>
+    <s:tag>gift_for_women</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>tote_bag</s:tag>
+    <s:tag>travel_tote</s:tag>
+    <s:tag>typographic_tote_bag</s:tag>
+    <s:tag>urban_farmer</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/477515612195</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

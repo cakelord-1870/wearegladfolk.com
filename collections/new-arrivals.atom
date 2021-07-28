@@ -1,0 +1,2699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wearegladfolk.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wearegladfolk.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wearegladfolk.com/collections/new-arrivals.atom"/>
+  <title>Gladfolk</title>
+  <updated>2021-07-02T16:21:33-04:00</updated>
+  <author>
+    <name>Gladfolk</name>
+  </author>
+  <entry>
+    <id>https://wearegladfolk.com/products/6578749145206</id>
+    <published>2021-07-02T16:21:33-04:00</published>
+    <updated>2021-07-02T16:21:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/four-modern-birthday-shirt-kids-tee"/>
+    <title>Four Modern Birthday Shirt Kids Tee</title>
+    <s:type>Kids Tees</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/FourModernMauveTeeListing1.jpg?v=1625256780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Kids Tees<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>"Four"</span><br><br><span>Happy birthday, little one!</span><br><br><span>This super-soft tee for birthday tots was designed with love and screen printed by hand in-house. <meta charset="utf-8">All artwork is original and printed in crisp white ink on a super soft tri-blend tee in mauve pink or olive green. This shirt is so cute and comfy, they'll want to wear it on their birthday - and beyond.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Birthday Apparel</s:tag>
+    <s:tag>Birthday Shirt</s:tag>
+    <s:tag>Birthdays</s:tag>
+    <s:tag>Celebration Shirt</s:tag>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Four</s:tag>
+    <s:tag>Fourth Birthday</s:tag>
+    <s:tag>Girls Birthday Tee</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Tshirt</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:tag>Toddler_birthday</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578749145206</id>
+      <title>2T / Mauve</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578749145206</id>
+      <title>2T / Olive</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578749145206</id>
+      <title>3T / Mauve</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578749145206</id>
+      <title>3T / Olive</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578749145206</id>
+      <title>4T / Mauve</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578749145206</id>
+      <title>5T / Mauve</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578749145206</id>
+      <title>4T / Olive</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578749145206</id>
+      <title>5T / Olive</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6578730860662</id>
+    <published>2021-07-02T14:58:05-04:00</published>
+    <updated>2021-07-02T14:58:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/three-modern-birthday-shirt-kids-tee"/>
+    <title>Three Modern Birthday Shirt Kids Tee</title>
+    <s:type>Kids Tees</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/ThreeModernMauveTeeListing1.jpg?v=1625252198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Kids Tees<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>"Three"</span><br><br><span>Happy birthday, little one!</span><br><br><span>This super-soft tee for birthday tots was designed with love and screen printed by hand in-house. <meta charset="utf-8">All artwork is original and printed in crisp white ink on a super soft tri-blend tee in mauve pink or olive green. This shirt is so cute and comfy, they'll want to wear it on their birthday - and beyond.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Birthday Apparel</s:tag>
+    <s:tag>Birthday Shirt</s:tag>
+    <s:tag>Birthdays</s:tag>
+    <s:tag>Celebration Shirt</s:tag>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Girls Birthday Tee</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Tshirt</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Third Birthday</s:tag>
+    <s:tag>Three</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:tag>Toddler_birthday</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578730860662</id>
+      <title>2T / Mauve</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578730860662</id>
+      <title>2T / Olive</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578730860662</id>
+      <title>3T / Mauve</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578730860662</id>
+      <title>3T / Olive</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578730860662</id>
+      <title>4T / Mauve</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578730860662</id>
+      <title>5T / Mauve</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578730860662</id>
+      <title>4T / Olive</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578730860662</id>
+      <title>5T / Olive</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6578611421302</id>
+    <published>2021-07-02T14:35:59-04:00</published>
+    <updated>2021-07-02T14:35:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/two-modern-birthday-shirt-kids-tee"/>
+    <title>Two Modern Birthday Shirt Kids Tee</title>
+    <s:type>Kids Tees</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/TwoModernMauveTeeListing1.jpg?v=1625250845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Kids Tees<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>"Two"</span><br><br><span>Happy birthday, little one!</span><br><br><span>This super-soft tee for birthday tots was designed with love and screen printed by hand in-house. <meta charset="utf-8">All artwork is original and printed in crisp white ink on a super soft tri-blend tee in mauve pink or olive green. This shirt is so cute and comfy, they'll want to wear it on their birthday - and beyond.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Birthday Apparel</s:tag>
+    <s:tag>Birthday Shirt</s:tag>
+    <s:tag>Birthdays</s:tag>
+    <s:tag>Celebration Shirt</s:tag>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Girls Birthday Tee</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kids Tshirt</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:tag>Toddler_birthday</s:tag>
+    <s:tag>Two</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578611421302</id>
+      <title>2T / Mauve</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578611421302</id>
+      <title>2T / Olive</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578611421302</id>
+      <title>3T / Mauve</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578611421302</id>
+      <title>3T / Olive</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578611421302</id>
+      <title>4T / Mauve</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6578611421302</id>
+      <title>4T / Olive</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6564969906294</id>
+    <published>2021-05-20T16:20:08-04:00</published>
+    <updated>2021-05-20T16:20:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/bookworm-organic-adult-tee"/>
+    <title>Bookworm Organic Adult Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/BookwormAdultCreamTeeListing1.jpg?v=1621541973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Bookworm"</p>
+<p><span style="font-weight: 400;"><meta charset="utf-8">
+<span data-mce-fragment="1">This modern boho tee for adults features a fun, groovy typeface for bookworms and literature lovers in your life.</span> All artwork is original and printed in black ink on a super soft, 100% organic American-made tee in natural. </span>Crew neck organic tee is 100% cotton and available in unisex adult sizing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adult Tees</s:tag>
+    <s:tag>american made</s:tag>
+    <s:tag>Bookworm</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Good Old Days</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>made in-house</s:tag>
+    <s:tag>Mama_Tshirt</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Perfect</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Womens Tees</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564969906294</id>
+      <title>XS / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564969906294</id>
+      <title>S / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564969906294</id>
+      <title>M / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564969906294</id>
+      <title>L / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564969906294</id>
+      <title>XL / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564969906294</id>
+      <title>XXL / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6564969414774</id>
+    <published>2021-05-20T16:17:03-04:00</published>
+    <updated>2021-05-20T16:17:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/perfect-is-boring-organic-adult-tee"/>
+    <title>Perfect Is Boring Organic Adult Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/PerfectIsBoringAdultCreamTeeListing1.jpg?v=1621541797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Perfect Is Boring"</p>
+<p><span style="font-weight: 400;"><meta charset="utf-8">
+<span data-mce-fragment="1">Loosen up and find the beauty in imperfection! For those of us who get hung up on everything being just right, this gentle reminder is good for us all.</span> All artwork is original and printed in black ink on a super soft, 100% organic American-made tee in natural. </span>Crew neck organic tee is 100% cotton and available in unisex adult sizing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adult Tees</s:tag>
+    <s:tag>american made</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Good Old Days</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>made in-house</s:tag>
+    <s:tag>Mama_Tee</s:tag>
+    <s:tag>Mama_Tshirt</s:tag>
+    <s:tag>Mothers Day 2020</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Perfect</s:tag>
+    <s:tag>Perfect Is Boring</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>These Are The Good Old Days</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Womens Tees</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564969414774</id>
+      <title>XS / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564969414774</id>
+      <title>S / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564969414774</id>
+      <title>M / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564969414774</id>
+      <title>L / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564969414774</id>
+      <title>XL / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564969414774</id>
+      <title>XXL / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6564968530038</id>
+    <published>2021-05-20T16:12:32-04:00</published>
+    <updated>2021-05-20T16:12:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/beach-bum-organic-adult-tee"/>
+    <title>Beach Bum Organic Adult Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/BeachBumAdultCreamTeeListing1.jpg?v=1621541456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Beach Bum"</p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">This modern boho tee for adults features a groovy typeface and minimalist wave illustration for beach vibes all summer long.</span> Made in the USA, designed with love, and screen printed by hand in our Ohio studio. Kids tees available in the same design for a sweet matching set. Unisex adult tees run true to size for men and run 1-2 sizes large for women.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adult Tees</s:tag>
+    <s:tag>american made</s:tag>
+    <s:tag>Beach Bum</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>made in-house</s:tag>
+    <s:tag>Mama_Tee</s:tag>
+    <s:tag>Mama_Tshirt</s:tag>
+    <s:tag>Matching Family Shirts</s:tag>
+    <s:tag>Matching Shirts</s:tag>
+    <s:tag>matching_clothes</s:tag>
+    <s:tag>matching_family</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Womens Tees</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564968530038</id>
+      <title>XS / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564968530038</id>
+      <title>S / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564968530038</id>
+      <title>M / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564968530038</id>
+      <title>L / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564968530038</id>
+      <title>XL / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564968530038</id>
+      <title>XXL / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6564967678070</id>
+    <published>2021-05-20T16:05:50-04:00</published>
+    <updated>2021-05-20T16:05:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/bookworm-organic-baby-kids-tee"/>
+    <title>Bookworm Organic Baby &amp; Kids Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/BookwormCreamTeeListing1.jpg?v=1621541101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>"Bookworm"<br></span><br><span data-mce-fragment="1"><meta charset="utf-8">This modern boho tee for little ones features a fun, groovy typeface for the little bookworms and literature lovers in your life. Our super-soft gender-neutral tee was designed with love and screen printed by hand in crisp black ink.</span></p>
+<p>Super-soft tee was designed with love and screen printed by hand in-house. Natural cream cotton is 100% organic and made in the U.S.A.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Baby Tee</s:tag>
+    <s:tag>Bookworm</s:tag>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Cotton Tshirt</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Kids Tshirt</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Made_in_USA</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Organic Cotton Shirt</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564967678070</id>
+      <title>3-6M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564967678070</id>
+      <title>6-12M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564967678070</id>
+      <title>12-18M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564967678070</id>
+      <title>18-24M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564967678070</id>
+      <title>2T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564967678070</id>
+      <title>4T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564967678070</id>
+      <title>6T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6564966760566</id>
+    <published>2021-05-20T16:02:28-04:00</published>
+    <updated>2021-05-20T16:02:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/farm-hand-organic-baby-kids-tee"/>
+    <title>Farm Hand Organic Baby &amp; Kids Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/FarmHandCreamTeeListing1.jpg?v=1621540853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>"Farm Hand"<br></span><br><span data-mce-fragment="1"><meta charset="utf-8">This rustic, modern tee for little ones features a distressed vintage-inspired typeface for the farm hands and outdoor helpers in your life. Our super-soft tee was designed with love and screen printed by hand in crisp black ink. Gender-neutral design for little helpers of all kinds!</span><br></p>
+<p>Super-soft tee was designed with love and screen printed by hand in-house. Natural cream cotton is 100% organic and made in the U.S.A.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Baby Tee</s:tag>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Cotton Tshirt</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>Farm Hand</s:tag>
+    <s:tag>Farmer</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Kids Tshirt</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Made_in_USA</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Organic Cotton Shirt</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966760566</id>
+      <title>3-6M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966760566</id>
+      <title>6-12M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966760566</id>
+      <title>12-18M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966760566</id>
+      <title>18-24M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966760566</id>
+      <title>2T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966760566</id>
+      <title>4T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966760566</id>
+      <title>6T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6564966170742</id>
+    <published>2021-05-20T15:58:23-04:00</published>
+    <updated>2021-05-20T15:58:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/beach-bum-organic-baby-kids-tee"/>
+    <title>Beach Bum Organic Baby &amp; Kids Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/BeachBumCreamTeeListing1.jpg?v=1621540580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>"Beach Bum"<br></span><br><meta charset="utf-8"><span data-mce-fragment="1">This modern boho tee for little ones features a groovy typeface and minimalist wave illustration for the little beach bum in your life. Our super-soft beach tee was designed with love and screen printed by hand in-house with our signature camel-colored ink. Gender-neutral design for beach vibes all year 'round!</span><br></p>
+<p>Super-soft tee was designed with love and screen printed by hand in-house. Natural cream cotton is 100% organic and made in the U.S.A.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Baby Tee</s:tag>
+    <s:tag>Beach</s:tag>
+    <s:tag>Beach Bum</s:tag>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Cotton Tshirt</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Kids Tshirt</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Made_in_USA</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Organic Cotton Shirt</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966170742</id>
+      <title>3-6M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966170742</id>
+      <title>6-12M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966170742</id>
+      <title>12-18M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966170742</id>
+      <title>18-24M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966170742</id>
+      <title>2T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966170742</id>
+      <title>4T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564966170742</id>
+      <title>6T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6564965220470</id>
+    <published>2021-05-20T15:54:42-04:00</published>
+    <updated>2021-05-20T15:54:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/snack-time-organic-baby-kids-tee"/>
+    <title>Snack Time Organic Baby &amp; Kids Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/SnackTimeCreamTeeListing1.jpg?v=1621540447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>"Snack Time"<br></span><br><span data-mce-fragment="1"><meta charset="utf-8">This playful graphic tee for little ones is a nod to the universal snack time; a fun, witty top for the constantly hungry kid in your life. Perfectly gender neutral, this cream tee features modern typography in our signature camel ink color.</span></p>
+<p>Super-soft tee was designed with love and screen printed by hand in-house. Natural cream cotton is 100% organic and made in the U.S.A.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Baby Tee</s:tag>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Cotton Tshirt</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Kids Tshirt</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Made_in_USA</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Organic Cotton Shirt</s:tag>
+    <s:tag>Snack Time</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564965220470</id>
+      <title>3-6M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564965220470</id>
+      <title>6-12M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564965220470</id>
+      <title>12-18M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564965220470</id>
+      <title>18-24M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564965220470</id>
+      <title>2T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564965220470</id>
+      <title>4T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564965220470</id>
+      <title>6T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6564964204662</id>
+    <published>2021-05-20T15:50:23-04:00</published>
+    <updated>2021-05-20T15:50:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/party-animal-organic-baby-kids-tee"/>
+    <title>Party Animal Organic Baby &amp; Kids Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/PartyAnimalCreamTeeListing1.jpg?v=1621540171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>"Party Animal"<br></span><br><span data-mce-fragment="1">It's party time! This classic phrase is laid out in a vintage-inspired modern typeface in our signature camel ink. Perfectly gender neutral, this cream tee is the right choice for birthdays and beyond.</span></p>
+<p>Super-soft tee was designed with love and screen printed by hand in-house. Natural cream cotton is 100% organic and made in the U.S.A.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Baby Tee</s:tag>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Cotton Tshirt</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Kids Tshirt</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Made_in_USA</s:tag>
+    <s:tag>Matching Family Shirts</s:tag>
+    <s:tag>Matching Shirts</s:tag>
+    <s:tag>Matching Sibling Shirts</s:tag>
+    <s:tag>Matching_shirts</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Organic Cotton Shirt</s:tag>
+    <s:tag>Party Animal</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564964204662</id>
+      <title>3-6M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564964204662</id>
+      <title>6-12M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564964204662</id>
+      <title>12-18M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564964204662</id>
+      <title>18-24M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564964204662</id>
+      <title>2T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564964204662</id>
+      <title>4T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6564964204662</id>
+      <title>6T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6553778061430</id>
+    <published>2021-04-16T16:53:12-04:00</published>
+    <updated>2021-04-16T16:53:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/one-rad-dad-organic-adult-tee"/>
+    <title>One Rad Dad Organic Adult Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/OneRadDadMensCreamTeeListing1.jpg?v=1618606347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>"One Rad Dad"</span></p>
+<p><span>A fun, modern graphic tee for rad dads! A sweet gesture for Father's Day or memorable gift for a proud new papa. All artwork is original and printed in our signature camel ink on a super soft, 100% organic cotton tee in natural cream (off-white).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A&amp;A</s:tag>
+    <s:tag>Adult Tees</s:tag>
+    <s:tag>american made</s:tag>
+    <s:tag>american_made</s:tag>
+    <s:tag>Fathers Day</s:tag>
+    <s:tag>Fathers Day 2020</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Made_in_USA</s:tag>
+    <s:tag>Matching</s:tag>
+    <s:tag>Mens Tees</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>One Rad Dad</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6553778061430</id>
+      <title>XS / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6553778061430</id>
+      <title>S / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6553778061430</id>
+      <title>M / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6553778061430</id>
+      <title>L / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6553778061430</id>
+      <title>XL / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6553778061430</id>
+      <title>XXL / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6552778113142</id>
+    <published>2021-04-13T17:24:51-04:00</published>
+    <updated>2021-04-13T17:24:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/dream-come-true-organic-baby-kids-tee"/>
+    <title>Dream Come True Organic Baby &amp; Kids Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/DreamComeTrueCreamTeeListing1.jpg?v=1618349268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>"Dream Come True"<br></span><br><meta charset="utf-8"><span data-mce-fragment="1">Clothe your little "dream come true" in style! This sweet fairytale phrase is laid out in a vintage-inspired modern typeface in crisp black ink.</span></p>
+<p>Super-soft tee was designed with love and screen printed by hand in-house. Natural cream cotton is 100% organic and made in the U.S.A.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Baby Tee</s:tag>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Cotton Tshirt</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>Dream Come True</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Kids Tshirt</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Made_in_USA</s:tag>
+    <s:tag>Matching Family Shirts</s:tag>
+    <s:tag>Matching Shirts</s:tag>
+    <s:tag>Matching Sibling Shirts</s:tag>
+    <s:tag>Matching_shirts</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Organic Cotton Shirt</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6552778113142</id>
+      <title>3-6M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6552778113142</id>
+      <title>6-12M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6552778113142</id>
+      <title>12-18M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6552778113142</id>
+      <title>18-24M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6552778113142</id>
+      <title>2T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6552778113142</id>
+      <title>4T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6552778113142</id>
+      <title>6T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6550702358646</id>
+    <published>2021-04-13T17:19:35-04:00</published>
+    <updated>2021-04-13T17:19:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/dream-come-baby-kids-tee"/>
+    <title>Dream Come Baby &amp; Kids Tee</title>
+    <s:type>Kids Tees</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/DreamComeTrueMauveTeeListing1.jpg?v=1618001964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Kids Tees<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Dream Come True"</p>
+<p>Clothe your little "dream come true" in style! This sweet fairytale phrase is laid out in a vintage-inspired modern typeface.</p>
+<meta charset="utf-8">
+<p><span>Designed with love and professionally screen-</span><span>printed by hand in-house. All artwork is original and available on a heather gray, mauve pink, or olive green super soft tri-blend tee.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children</s:tag>
+    <s:tag>Dream Come True</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Kids Tshirt</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>2T / Mauve</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>3-6 M / Mauve</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>6-12 M / Mauve</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>12-18 M / Mauve</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>2T / Olive</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>3-6 M / Olive</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>6-12 M / Olive</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>12-18 M / Olive</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>2T / Heather Gray</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>3-6 M / Heather Gray</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>6-12 M / Heather Gray</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>12-18 M / Heather Gray</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>3T / Mauve</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>3T / Olive</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>3T / Heather Gray</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>4T / Mauve</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>4T / Olive</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>4T / Heather Gray</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>5T / Mauve</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>5T / Olive</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>5T / Heather Gray</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>S (6-8) / Heather Gray</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>M (10-12) / Heather Gray</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550702358646</id>
+      <title>L (12-14) / Heather Gray</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6550693150838</id>
+    <published>2021-04-09T16:56:02-04:00</published>
+    <updated>2021-04-09T16:56:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/dream-come-true-organic-baby-bodysuit"/>
+    <title>Dream Come True Organic Baby Bodysuit</title>
+    <s:type>Baby Bodysuits</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/DreamComeTrueCreamBodysuitListing1.jpg?v=1618000538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Baby Bodysuits<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span class="s1">"Dream Come True"<br data-mce-fragment="1"></span></p>
+<p class="p1"><span class="s1">Clothe your little "dream come true" in style! <meta charset="utf-8">This sweet fairytale phrase is hand-printed on a </span>super-soft, 100% organic cotton outfit. Features modern typography on a luxe cream, gray, or camel colored bodysuit - designed with love and screen printed in-house. Short and long sleeve options.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby</s:tag>
+    <s:tag>Baby Apparel</s:tag>
+    <s:tag>Baby Clothes</s:tag>
+    <s:tag>baby_bodysuit</s:tag>
+    <s:tag>baby_clothes</s:tag>
+    <s:tag>baby_gift</s:tag>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Dream Come True</s:tag>
+    <s:tag>Gender Neutral</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>infant_bodysuit</s:tag>
+    <s:tag>infant_clothes</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Baby Clothes</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>unique_baby_bodysuit</s:tag>
+    <s:tag>unique_baby_clothes</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>0-3M / Cream / Short Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>0-3M / Cream / Long Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>0-3M / Gray / Short Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>0-3M / Gray / Long Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>0-3M / Camel / Short Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>0-3M / Camel / Long Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>3-6M / Cream / Short Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>3-6M / Cream / Long Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>3-6M / Gray / Short Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>3-6M / Gray / Long Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>3-6M / Camel / Short Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>3-6M / Camel / Long Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>6-12M / Cream / Short Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>6-12M / Cream / Long Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>6-12M / Gray / Short Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>6-12M / Gray / Long Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>6-12M / Camel / Short Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>6-12M / Camel / Long Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>12-18M / Cream / Short Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>12-18M / Cream / Long Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>12-18M / Gray / Short Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>12-18M / Gray / Long Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>12-18M / Camel / Short Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550693150838</id>
+      <title>12-18M / Camel / Long Sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6550684336246</id>
+    <published>2021-04-09T16:13:50-04:00</published>
+    <updated>2021-04-09T16:13:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/forever-young-organic-baby-kids-tee"/>
+    <title>Forever Young Organic Baby &amp; Kids Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/ForeverYoungCreamTeeListing1.jpg?v=1617999206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>"Forever Young"<br></span><br>This fun tee for little ones cherishes their youth in style. Featuring a retro-modern typeface, this cool graphic tee for kids features hand-printed typography in our signature camel ink. Super-soft tee was designed with love and screen printed by hand in-house. Natural cream cotton is 100% organic and made in the U.S.A.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Baby Tee</s:tag>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Cotton Tshirt</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>Forever Young</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Kids Tshirt</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Made_in_USA</s:tag>
+    <s:tag>Matching Family Shirts</s:tag>
+    <s:tag>Matching Shirts</s:tag>
+    <s:tag>Matching Sibling Shirts</s:tag>
+    <s:tag>Matching_shirts</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Organic Cotton Shirt</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550684336246</id>
+      <title>3-6M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550684336246</id>
+      <title>6-12M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550684336246</id>
+      <title>12-18M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550684336246</id>
+      <title>18-24M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550684336246</id>
+      <title>2T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550684336246</id>
+      <title>4T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550684336246</id>
+      <title>6T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6550680666230</id>
+    <published>2021-04-09T16:03:43-04:00</published>
+    <updated>2021-04-09T16:03:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/just-doing-my-best-organic-adult-tee"/>
+    <title>Just Doing My Best Organic Adult Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/JustDoingMyBestAdultTeeListing1.jpg?v=1617998854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Just Doing My Best"</p>
+<p>This super-soft, 100% organic cotton tee features our original typographic design in our signature camel ink on a luxe cream t-shirt. Retro-modern font and layout make an authentic message fun! Made in the USA, designed with love, and screen printed by hand in our Ohio studio. Kids tees available in the same design for a sweet matching set. Unisex adult tees run true to size for men and run 1-2 sizes large for women.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A&amp;A</s:tag>
+    <s:tag>Adult Tees</s:tag>
+    <s:tag>american made</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Just Doing My Best</s:tag>
+    <s:tag>made in-house</s:tag>
+    <s:tag>Mama_Tee</s:tag>
+    <s:tag>Mama_Tshirt</s:tag>
+    <s:tag>Matching Family Shirts</s:tag>
+    <s:tag>Matching Shirts</s:tag>
+    <s:tag>matching_clothes</s:tag>
+    <s:tag>matching_family</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Pregnancy</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Womens Tees</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550680666230</id>
+      <title>XS / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550680666230</id>
+      <title>S / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550680666230</id>
+      <title>M / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550680666230</id>
+      <title>L / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550680666230</id>
+      <title>XL / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550680666230</id>
+      <title>XXL / Natural</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/6550664872054</id>
+    <published>2021-04-09T15:26:13-04:00</published>
+    <updated>2021-04-09T15:26:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/just-doing-my-best-organic-kids-tee"/>
+    <title>Just Doing My Best Organic Kids Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/JustDoingMyBestKidsTeeListing1.jpg?v=1617996428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>"Just Doing My Best" This super-soft cotton tee features our original typographic design in our signature camel ink on a luxe cream kids t-shirt. Retro-modern font and layout make an honest, authentic message fun!</p>
+<p>Designed with love and professionally screen-printed by hand in-house. All artwork is original and printed in black ink on a super soft 100% organic cotton tee in natural.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Just Doing My Best</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Natural</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>SS21</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550664872054</id>
+      <title>2T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550664872054</id>
+      <title>4T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550664872054</id>
+      <title>6T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550664872054</id>
+      <title>S (6-8) / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550664872054</id>
+      <title>M (10-12) / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/6550664872054</id>
+      <title>L (12-14) / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4630161522806</id>
+    <published>2020-12-30T08:37:33-05:00</published>
+    <updated>2020-12-30T08:37:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/its-true-love-organic-baby-bodysuit"/>
+    <title>It&apos;s True Love Organic Baby Bodysuit</title>
+    <s:type>Baby Bodysuits</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/TrueLoveCreamBodysuitListing1.jpg?v=1609335525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Baby Bodysuits<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">"It's True Love"</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">A fun modern bodysuit for your littlest Valentine and truest love!</span><br><br><span>This super-soft, 100% organic cotton outfit features modern typography in our signature camel ink on a luxe cream colored bodysuit - designed with love and screen printed in-house. Available in short or long-sleeve and made in the USA.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>baby</s:tag>
+    <s:tag>Baby Apparel</s:tag>
+    <s:tag>Be Mine</s:tag>
+    <s:tag>bodysuit</s:tag>
+    <s:tag>FW20</s:tag>
+    <s:tag>handmade</s:tag>
+    <s:tag>I&apos;m Yours</s:tag>
+    <s:tag>It&apos;s True Love</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>True Love</s:tag>
+    <s:tag>Valentine</s:tag>
+    <s:tag>Valentines</s:tag>
+    <s:tag>Valentines Day</s:tag>
+    <s:tag>W21</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630161522806</id>
+      <title>0-3M / Short sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630161522806</id>
+      <title>0-3M / Long sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630161522806</id>
+      <title>3-6M / Short sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630161522806</id>
+      <title>3-6M / Long sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630161522806</id>
+      <title>6-12M / Short sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630161522806</id>
+      <title>6-12M / Long sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630161522806</id>
+      <title>12-18M / Short sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630161522806</id>
+      <title>12-18M / Long sleeve</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4630160867446</id>
+    <published>2020-12-30T08:29:22-05:00</published>
+    <updated>2020-12-30T08:29:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/its-true-love-organic-baby-kids-tee"/>
+    <title>It&apos;s True Love Organic Baby &amp; Kids Tee</title>
+    <s:type>Organic Tee</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/TrueLoveCreamKidsTeeListing1.jpg?v=1609334983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Organic Tee<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>"It's True Love"</span><br><br><span>A fun modern tee for your truest little love! From baby to youth sizes, these unisex tees make for a cozy Valentine's Day.</span></p>
+<p><span> This organic cotton cream tee features a trendy modern typeface in our signature crisp camel brown ink. D</span><span>esigned with love and screen printed by hand in-house. </span><span>Natural cream cotton tee is 100% organic and made in the USA.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Baby Tee</s:tag>
+    <s:tag>Children</s:tag>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Cotton Tshirt</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>FW20</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Its True Love</s:tag>
+    <s:tag>Kids Tshirt</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Made_in_USA</s:tag>
+    <s:tag>Matching Family Shirts</s:tag>
+    <s:tag>Matching Shirts</s:tag>
+    <s:tag>Matching Sibling Shirts</s:tag>
+    <s:tag>Matching_shirts</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>Organic Cotton</s:tag>
+    <s:tag>Organic Cotton Shirt</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Toddler Shirt</s:tag>
+    <s:tag>True Love</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>Valentines</s:tag>
+    <s:tag>W21</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630160867446</id>
+      <title>3-6M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630160867446</id>
+      <title>6-12M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630160867446</id>
+      <title>12-18M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630160867446</id>
+      <title>18-24M / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630160867446</id>
+      <title>2T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630160867446</id>
+      <title>4T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4630160867446</id>
+      <title>6T / Natural</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4569504186486</id>
+    <published>2020-08-31T10:09:53-04:00</published>
+    <updated>2020-08-31T10:09:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/copy-of-wooden-alphabet-flash-cards-lowercase-letters-on-sturdy-wood-cards-1"/>
+    <title>Wooden Alphabet Flash Cards • Uppercase Letters on Sturdy Wood Cards</title>
+    <s:type>General Wood Product</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/UppercaseAlphabetFlashcardsListing1.jpg?v=1598883052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>General Wood Product<br>
+        <strong>Price: </strong>
+            80.00 - 90.00
+            <a href="https://wearegladfolk.com/products/copy-of-wooden-alphabet-flash-cards-lowercase-letters-on-sturdy-wood-cards-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Learning at home should seamlessly blend form and function, beauty and practicality. Our handmade wooden alphabet cards are designed with multiple uses in mind - as tabletop references, a piece of art in a playroom or homeschool environment, a phonics resource, or for tracing with little fingers! Inspired by Montessori-style natural materials and the concept of sandpaper letters, these engraved cards allow children to trace their fingers over the engraved letterforms while absorbing their shape. All 26 letters of the alphabet, A-Z, are included and pictured in a large, modern, easy-to-read font.</span><br><br><span>Each wooden card measures 4" wide by 6" tall and 0.2" thick, and make for a lovely collection in the school room. Durable materials mean that these flash cards will last through many years of home education. Purchase 26 flash cards alone; or purchase the 26 cards &amp; coordinating wooden stand together for an easy way to display and reference letters at various times, and move around the house as needed for a beautiful and accessible reference.</span><br><br><span>Wooden stand measures 5.75" wide by nearly 2" tall and approximately 1.5" deep with a perfectly angled groove for holding your cards. Purchase other flash card designs in our shop and seamlessly switch out your displays as needed!</span><br><br><span>Each item is lovingly designed and crafted by hand in our Ohio studio from locally sourced wood. Sealed with food-grade mineral oil and safe for babies and children to enjoy. Our line of modern learning resources are a lovely addition to a nursery, playroom, or homeschool environment and are sure to be treasured for years to come.</span><br><br><em>Large wooden alphabet board and<span> </span>lowercase flash cards are not included but are available for purchase separately!</em><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet</s:tag>
+    <s:tag>Alphabet Toys</s:tag>
+    <s:tag>American Made</s:tag>
+    <s:tag>Back to school</s:tag>
+    <s:tag>Educational Toys</s:tag>
+    <s:tag>Flash Cards</s:tag>
+    <s:tag>Flashcards</s:tag>
+    <s:tag>FW20</s:tag>
+    <s:tag>Learning Tools</s:tag>
+    <s:tag>Letters</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Wooden Toys</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4569504186486</id>
+      <title>Without Stand</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4569504186486</id>
+      <title>With Wooden Stand</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4565977333878</id>
+    <published>2020-08-25T21:03:20-04:00</published>
+    <updated>2020-08-25T21:03:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/wooden-alphabet-flash-cards-lowercase-letters-on-sturdy-wood-cards"/>
+    <title>Wooden Alphabet Flash Cards • Lowercase Letters on Sturdy Wood Cards</title>
+    <s:type>General Wood Product</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/LowercaseAlphabetFlashcardsListing1.jpg?v=1598403832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>General Wood Product<br>
+        <strong>Price: </strong>
+            80.00 - 90.00
+            <a href="https://wearegladfolk.com/products/wooden-alphabet-flash-cards-lowercase-letters-on-sturdy-wood-cards">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Learning at home should seamlessly blend form and function, beauty and practicality. Our handmade wooden alphabet cards are designed with multiple uses in mind - as tabletop references, a piece of art in a playroom or homeschool environment, a phonics resource, or for tracing with little fingers! Inspired by Montessori-style natural materials and the concept of sandpaper letters, these engraved cards allow children to trace their fingers over the engraved letterforms while absorbing their shape. All 26 letters of the alphabet, a-z, are included and pictured in a large, modern, easy-to-read font.</span><br><br><span>Each wooden card measures 4" wide by 6" tall and 0.2" thick, and make for a lovely collection in the school room. Durable materials mean that these flash cards will last through many years of home education. Purchase 26 flash cards alone; or purchase the 26 cards &amp; coordinating wooden stand together for an easy way to display and reference letters at various times, and move around the house as needed for a beautiful and accessible reference.</span><br><br><span>Wooden stand measures 5.75" wide by nearly 2" tall and approximately 1.5" deep with a perfectly angled groove for holding your cards. Purchase other flash card designs in our shop and seamlessly switch out your displays as needed!</span><br><br><span>Each item is lovingly designed and crafted by hand in our Ohio studio from locally sourced wood. Sealed with food-grade mineral oil and safe for babies and children to enjoy. Our line of modern learning resources are a lovely addition to a nursery, playroom, or homeschool environment and are sure to be treasured for years to come.</span><br><br><em>Large wooden alphabet board and uppercase flash cards are not included but are available for purchase separately!</em><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet</s:tag>
+    <s:tag>Alphabet Toys</s:tag>
+    <s:tag>American Made</s:tag>
+    <s:tag>Back to school</s:tag>
+    <s:tag>Educational Toys</s:tag>
+    <s:tag>Flash Cards</s:tag>
+    <s:tag>Flashcards</s:tag>
+    <s:tag>FW20</s:tag>
+    <s:tag>Learning Tools</s:tag>
+    <s:tag>Letters</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Wooden Toys</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565977333878</id>
+      <title>Without Stand</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565977333878</id>
+      <title>With Wooden Stand</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4565975793782</id>
+    <published>2020-08-25T20:56:53-04:00</published>
+    <updated>2020-08-25T20:56:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/wooden-continent-flash-cards-maps-of-all-7-continents-on-wood"/>
+    <title>Wooden Continent Flash Cards • Maps of All 7 Continents on Wood</title>
+    <s:type>General Wood Product</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/ContinentFlashcardsListing1.jpg?v=1598403465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>General Wood Product<br>
+        <strong>Price: </strong>
+            30.00 - 38.00
+            <a href="https://wearegladfolk.com/products/wooden-continent-flash-cards-maps-of-all-7-continents-on-wood">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our handmade wooden continent cards are designed with multiple uses in mind - as tabletop references, a piece of art in a playroom or homeschool environment, a resource for memorization, or for plotting their next adventure! Inspired by Montessori-style natural materials and the concept of sandpaper letters, this engraved map allows children to trace their fingers over the engraved continent shapes and names while absorbing the beauty of our world's landforms. Each of the 7 continents is pictured and labeled accordingly in a modern, sans serif easy-to-read font.</span><br><br><span>Each wooden card measures 4" wide by 6" tall and 0.2" thick, and make for a lovely collection in the school room. Durable materials mean that these flash cards will last through many years of home education and geographical curiosity. Purchase the flash cards alone; or purchase the 7 cards &amp; coordinating wooden stand together for an easy way to display and reference your continents at all times, and move around the house as needed for a beautiful and accessible reference.</span><br><br><span>Wooden stand measures 5.75" wide by nearly 2" tall and approximately 1.5" deep with a perfectly angled groove for holding your cards. Purchase other flash card designs in our shop and seamlessly switch out your displays as needed!</span><br><br><span>Each item is lovingly designed and crafted by hand in our Ohio studio from locally sourced wood. Sealed with food-grade mineral oil and safe for babies and children to enjoy. Our line of modern learning resources are a lovely addition to a nursery, playroom, or homeschool environment and are sure to be treasured for years to come.</span><br><br><em>Large wooden world map is included but is available for purchase separately!</em><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Back to school</s:tag>
+    <s:tag>Continents</s:tag>
+    <s:tag>Educational Toys</s:tag>
+    <s:tag>Flash Cards</s:tag>
+    <s:tag>Flashcards</s:tag>
+    <s:tag>FW20</s:tag>
+    <s:tag>Learning Tools</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Maps</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Wood Maps</s:tag>
+    <s:tag>Wooden Toys</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565975793782</id>
+      <title>Without Stand</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565975793782</id>
+      <title>With Wooden Stand</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4565963309174</id>
+    <published>2020-08-25T20:03:22-04:00</published>
+    <updated>2020-08-25T20:03:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/wooden-shapes-flash-cards-set-of-geometric-wood-cards"/>
+    <title>Wooden Shapes Flash Cards • Set of 18 Geometric Wood Cards</title>
+    <s:type>General Wood Product</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/ShapesFlashcardsListing2.jpg?v=1598400264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>General Wood Product<br>
+        <strong>Price: </strong>
+            60.00 - 70.00
+            <a href="https://wearegladfolk.com/products/wooden-shapes-flash-cards-set-of-geometric-wood-cards">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Our handmade wooden shape cards are designed with multiple uses in mind - as tabletop references, a piece of art in a playroom or homeschool environment, a math resource, or for tracing with little fingers!</span></p>
+<p>Inspired by Montessori-style natural materials and the concept of sandpaper letters, these engraved cards allow children to trace their fingers over the engraved shapes and forms while absorbing their angles, sides, and points. Features 18 different shapes and their names below in a large, modern, easy-to-read font.<br><br>SHAPES INCLUDED:<br><br>• Circle<br>• Triangle<br>• Square<br>• Rectangle<br>• Diamond<br>• Oval<br>• Rhombus<br>• Trapezoid<br>• Pentagon<br>• Hexagon<br>• Heptagon<br>• Octagon<br>• Star<br>• Heart<br>• Cross<br>• Crescent<br>• Arrow<br>• Semicircle<br><br>Each wooden card measures 4" wide by 6" tall and 0.2" thick, and makes for a lovely collection in the school room. Durable materials mean that these flash cards will last through many years of home education. Purchase 18 shape flash cards alone; or purchase the 18 cards &amp; coordinating wooden stand together for an easy way to display and reference different shapes at various times, and move around the house as needed for a beautiful and accessible reference.<br><br>Wooden stand measures 5.75" wide by nearly 2" tall and approximately 1.5" deep with a perfectly angled groove for holding your cards. Purchase other flash card designs (alphabet, continents) in our shop and seamlessly switch out your displays as needed!<br><br>Each item is lovingly designed and crafted by hand in our Ohio studio from locally sourced wood. Sealed with food-grade mineral oil and safe for babies and children to enjoy. Our line of modern learning resources are a lovely addition to a nursery, playroom, or homeschool environment and are sure to be treasured for years to come.<br><br>Full sized shapes board shown in some photos is not included but is available for purchase separately.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet</s:tag>
+    <s:tag>American Made</s:tag>
+    <s:tag>Back to school</s:tag>
+    <s:tag>Educational Toys</s:tag>
+    <s:tag>Flashcards</s:tag>
+    <s:tag>FW20</s:tag>
+    <s:tag>Learning Tools</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Montessori</s:tag>
+    <s:tag>Number Toys</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>Wooden Toys</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565963309174</id>
+      <title>Without Stand</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565963309174</id>
+      <title>With Wooden Stand</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4565959966838</id>
+    <published>2020-08-25T19:50:10-04:00</published>
+    <updated>2020-08-25T19:50:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/custom-name-wooden-interlocking-puzzle"/>
+    <title>Custom Name Wooden Interlocking Puzzle</title>
+    <s:type>Custom charge per letter</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/InterlockingNamePuzzleListing1Bright.jpg?v=1598399555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Custom charge per letter<br>
+        <strong>Price: </strong>
+            6.00 - 50.00
+            <a href="https://wearegladfolk.com/products/custom-name-wooden-interlocking-puzzle">(30 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>Let children familiarize themselves with the letters and order of their name with our customizable wooden letter puzzle! Inspired by Montessori movable alphabets, we created this one-of-a-kind heirloom-quality personalized puzzle for children to use in a variety of open-ended ways and enjoy for years on end. Inspired by Montessori materials and sandpaper numbers, we created this tactile, durable game to make learning and literacy a little more fun and a whole lot more beautiful.</span><br><br><span>Made of solid maple wood, these lightweight wooden puzzle pieces are made of durable, natural materials and are easy for little ones to grasp, trace, feel, and explore as they learn and play. Intentionally designed in a modern, child-friendly font for easy legibility. This puzzle set comes with as many pieces as you need to spell whichever name, word, or phrase you wish!</span><br><br><span>We offer personalized orders featuring uppercase letters or digits 0-9. Please leave your personalization request at checkout EXACTLY as you'd like it to read, as we will design accordingly (if multiple words are needed, please indicate). Select your puzzle piece quantity through the dropdown menu at checkout! Your wooden letter set comes in a lovely cloth drawstring bag for safekeeping and sustainable, eco-friendly storage.</span><br><br><span>Use your custom wooden letters to:</span><br><br><span>• Identify individual letters and their sounds</span><br><span>• Practice assembling letters in the right order to form names and meaningful words or phrases</span><br><br><span>Each name puzzle is designed with love and made by hand in our Ohio workshop from locally sourced lumber. Sealed with organic food-grade mineral oil and safe for children of all ages to enjoy. These modern letters are a lovely addition to a nursery, homeschool environment, or as a memorable heirloom quality gift to be enjoyed by little hands for many years.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Alphabet Toys</s:tag>
+    <s:tag>American Made</s:tag>
+    <s:tag>Birthday Gifts</s:tag>
+    <s:tag>Custom</s:tag>
+    <s:tag>Educational Toys</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Name Puzzle</s:tag>
+    <s:tag>personalized</s:tag>
+    <s:tag>Personalized Toys</s:tag>
+    <s:tag>Puzzle</s:tag>
+    <s:tag>SS20</s:tag>
+    <s:tag>toys</s:tag>
+    <s:tag>Wood Puzzles</s:tag>
+    <s:tag>Wooden Toys</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 1</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 2</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 3</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 4</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 5</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 6</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 7</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 8</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 9</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 10</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 11</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 12</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 13</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 14</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 15</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 16</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 17</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 18</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 19</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 20</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 21</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 22</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 23</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 24</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 25</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 26</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 27</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 28</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 29</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4565959966838</id>
+      <title>Maple / 30</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

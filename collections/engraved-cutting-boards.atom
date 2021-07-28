@@ -1,0 +1,2176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wearegladfolk.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wearegladfolk.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wearegladfolk.com/collections/engraved-cutting-boards.atom"/>
+  <title>Gladfolk</title>
+  <updated>2020-01-24T14:09:35-05:00</updated>
+  <author>
+    <name>Gladfolk</name>
+  </author>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399712010358</id>
+    <published>2020-01-24T14:09:35-05:00</published>
+    <updated>2020-01-24T14:09:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/floral-frame-custom-engraved-wooden-cutting-board"/>
+    <title>Floral Frame Custom Engraved Wooden Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>The Oyster&apos;s Pearl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Weckesser_Floral_Cutting_Board_Listing_1.jpg?v=1579893021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Oyster&#39;s Pearl<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/floral-frame-custom-engraved-wooden-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our floral frame custom cutting board features gorgeous botanical illustrations and a personalized surname and wedding date in timeless modern typography.</p><p>Makes for an incredibly thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Available in your choice of maple, cherry, or walnut wood types and on boards sized 8" x 10", 11" x 14", and 14" x 22". Select your desired size and wood type from the drop-down menu.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Botanicals</s:tag>
+    <s:tag>Charcuterie</s:tag>
+    <s:tag>Charcuterie Board</s:tag>
+    <s:tag>Cheers</s:tag>
+    <s:tag>Chef Gift</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>Custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Foodie Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Happily Ever After</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Hostess Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>personalized</s:tag>
+    <s:tag>Personalized Cutting Board</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Wedding Gifts</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399712010358</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399712010358</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399712010358</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399712010358</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399712010358</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399712010358</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399712010358</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399712010358</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399712010358</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399710437494</id>
+    <published>2020-01-24T14:04:43-05:00</published>
+    <updated>2020-01-24T14:04:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/bold-modern-custom-names-engraved-handmade-cutting-board"/>
+    <title>Modern Sans Serif Custom Names Engraved Handmade Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Modern_CORA_Board_with_Botanical_Listing_2.jpg?v=1579892909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/bold-modern-custom-names-engraved-handmade-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our modern custom cutting board features a whimsical botanical graphic and personalized names and wedding date in bold, modern typography. Makes for an incredibly thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p>
+<p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p>
+<p>Please note that each cutting board is unique and made to order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Bold</s:tag>
+    <s:tag>Calligraphy</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fathers Day 2020</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>personalized</s:tag>
+    <s:tag>Personalized Cutting Board</s:tag>
+    <s:tag>Personalized Kitchen Decor</s:tag>
+    <s:tag>Personalized Wedding Gift</s:tag>
+    <s:tag>Surname</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Wedding Gifts</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399710437494</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399710437494</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399710437494</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399710437494</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399710437494</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399710437494</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399710437494</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399710437494</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399710437494</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399708405878</id>
+    <published>2020-01-24T13:57:32-05:00</published>
+    <updated>2020-01-24T13:57:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/peony-badge-handmade-wooden-cutting-board"/>
+    <title>Peony Badge Handmade Wooden Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Peony_Badge_Miller_Cutting_Board_Listing_1.jpg?v=1579892295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/peony-badge-handmade-wooden-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our peony pattern custom cutting board features a gorgeous floral pattern background and personalized names and wedding date in a modern badge shape. Makes for a thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Available in your choice of maple, cherry, or walnut wood types and on boards sized 8" x 10", 11" x 14", and 14" x 22". Select your desired size and wood type from the drop-down menu.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Chef Gift</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Floral Cutting Board</s:tag>
+    <s:tag>Florals</s:tag>
+    <s:tag>Foodie Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Kitchen Florals</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>Mothers Day 2020</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Peonies</s:tag>
+    <s:tag>Peony</s:tag>
+    <s:tag>Peony Pattern</s:tag>
+    <s:tag>personalized</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Wedding Gifts</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399708405878</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399708405878</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399708405878</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399708405878</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399708405878</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399708405878</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399708405878</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399708405878</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399708405878</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399707619446</id>
+    <published>2020-01-24T13:53:18-05:00</published>
+    <updated>2020-01-24T13:53:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/botanical-surname-custom-engraved-handmade-cutting-board"/>
+    <title>Botanical Surname Custom Engraved Handmade Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Floral_Williams_Cutting_Board_Listing_1.jpg?v=1579892038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/botanical-surname-custom-engraved-handmade-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our floral frame custom cutting board features gorgeous botanical illustrations and a personalized surname in timeless modern typography. Makes for an incredibly thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Botanicals</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fathers Day 2020</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>Mothers Day 2020</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>personalized</s:tag>
+    <s:tag>Personalized Cutting Board</s:tag>
+    <s:tag>Personalized Kitchen Decor</s:tag>
+    <s:tag>Personalized Wedding Gift</s:tag>
+    <s:tag>Surname</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Wedding Gifts</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399707619446</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399707619446</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399707619446</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399707619446</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399707619446</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399707619446</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399707619446</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399707619446</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399707619446</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399705161846</id>
+    <published>2020-01-24T13:41:33-05:00</published>
+    <updated>2020-01-24T13:41:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/floral-corners-custom-engraved-handmade-cutting-board"/>
+    <title>Floral Corners Custom Engraved Handmade Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Floral_Corners_Thomas_Cutting_Board_Listing_1.jpg?v=1579891350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/floral-corners-custom-engraved-handmade-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our floral corners custom cutting board features gorgeous botanical illustrations and personalized names and wedding date in timeless modern typography. Makes for an incredibly thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Botanicals</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>personalized</s:tag>
+    <s:tag>Personalized Cutting Board</s:tag>
+    <s:tag>Personalized Kitchen Decor</s:tag>
+    <s:tag>Personalized Wedding Gift</s:tag>
+    <s:tag>Surname</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Wedding Gifts</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399705161846</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399705161846</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399705161846</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399705161846</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399705161846</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399705161846</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399705161846</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399705161846</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399705161846</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399666823286</id>
+    <published>2020-01-24T12:06:10-05:00</published>
+    <updated>2020-01-24T12:06:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/whimsical-calligraphy-custom-engraved-handmade-cutting-board"/>
+    <title>Whimsical Calligraphy Engraved Handmade Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Calligraphy_Petersons_Cutting_Board_Listing_1.jpg?v=1579885599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/whimsical-calligraphy-custom-engraved-handmade-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our modern calligraphy custom cutting board features gorgeous script and an engraved wedding date in timeless typography. Makes for an incredibly thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Calligraphy</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>Mothers Day 2020</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>personalized</s:tag>
+    <s:tag>Personalized Cutting Board</s:tag>
+    <s:tag>Personalized Kitchen Decor</s:tag>
+    <s:tag>Personalized Wedding Gift</s:tag>
+    <s:tag>Surname</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Wedding Gifts</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399666823286</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399666823286</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399666823286</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399666823286</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399666823286</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399666823286</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399666823286</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399666823286</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399666823286</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399652274294</id>
+    <published>2020-01-24T11:55:22-05:00</published>
+    <updated>2020-01-24T11:55:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/modern-calligraphy-surname-custom-engraved-handmade-cutting-board"/>
+    <title>Modern Calligraphy Engraved Handmade Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Calligraphy_Taylor_Cutting_Board_Listing_1.jpg?v=1579885093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/modern-calligraphy-surname-custom-engraved-handmade-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our modern calligraphy custom cutting board features gorgeous script and an engraved wedding date in timeless typography. Makes for an incredibly thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Calligraphy</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>Mothers Day 2020</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>personalized</s:tag>
+    <s:tag>Personalized Cutting Board</s:tag>
+    <s:tag>Personalized Kitchen Decor</s:tag>
+    <s:tag>Personalized Wedding Gift</s:tag>
+    <s:tag>Surname</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Wedding Gifts</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399652274294</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399652274294</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399652274294</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399652274294</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399652274294</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399652274294</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399652274294</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399652274294</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399652274294</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399643263094</id>
+    <published>2020-01-24T11:48:37-05:00</published>
+    <updated>2020-01-24T11:48:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/custom-city-and-state-modern-engraved-wooden-cutting-board"/>
+    <title>Custom City and State Modern Engraved Wooden Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Custom_City_State_Cutting_Board_Listing_2.jpg?v=1579884599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/custom-city-and-state-modern-engraved-wooden-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate local pride! Our Custom City &amp; State Cutting Boards feature an engraved state silhouette, star on the city of your choice, and a modern typographic layout for a stunning kitchen heirloom and memorable gift. Makes for a lovely souvenir or way to memorialize a treasured location!</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Available in your choice of maple, cherry, or walnut wood types and on boards sized 8" x 10", 11" x 14", and 14" x 22". Select your desired size and wood type from the drop-down menu.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Charcuterie</s:tag>
+    <s:tag>Charcuterie Board</s:tag>
+    <s:tag>Cheers</s:tag>
+    <s:tag>Chef Gift</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>City State</s:tag>
+    <s:tag>Custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fathers Day 2020</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Foodie Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Hostess Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>personalized</s:tag>
+    <s:tag>State Souvenir</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399643263094</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399643263094</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399643263094</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399643263094</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399643263094</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399643263094</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399643263094</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399643263094</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399643263094</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399641264246</id>
+    <published>2020-01-24T11:46:39-05:00</published>
+    <updated>2020-01-24T11:46:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/floral-frame-happily-ever-after-engraved-wooden-cutting-board"/>
+    <title>Floral Frame Happily Ever After Engraved Wooden Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>The Oyster&apos;s Pearl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Happily_Ever_After_Floral_Frame_Cutting_Board_Listing_2.jpg?v=1579884451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Oyster&#39;s Pearl<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/floral-frame-happily-ever-after-engraved-wooden-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Floral Frame Happily Ever After cutting board features a whimsical floral design and modern typography that makes for a stunning wedding or anniversary gift.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Available in your choice of maple, cherry, or walnut wood types and on boards sized 8" x 10", 11" x 14", and 14" x 22". Select your desired size and wood type from the drop-down menu.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Botanicals</s:tag>
+    <s:tag>Charcuterie</s:tag>
+    <s:tag>Charcuterie Board</s:tag>
+    <s:tag>Cheers</s:tag>
+    <s:tag>Chef Gift</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Foodie Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Happily Ever After</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Hostess Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Wedding Gifts</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399641264246</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399641264246</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399641264246</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399641264246</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399641264246</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399641264246</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399641264246</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399641264246</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399641264246</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399638544502</id>
+    <published>2020-01-24T11:43:52-05:00</published>
+    <updated>2020-01-24T11:43:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/cheers-floral-pattern-engraved-wooden-cutting-board"/>
+    <title>Cheers Floral Pattern Engraved Wooden Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Peony_CHEERS_Cutting_Board_Listing_2.jpg?v=1579884313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/cheers-floral-pattern-engraved-wooden-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our peony patterned cutting board features a modern floral design and an emphatic "Cheers" that makes for a stunning kitchen celebration. Makes for a thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Available in your choice of maple, cherry, or walnut wood types and on boards sized 8" x 10", 11" x 14", and 14" x 22". Select your desired size and wood type from the drop-down menu.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Botanicals</s:tag>
+    <s:tag>Charcuterie</s:tag>
+    <s:tag>Charcuterie Board</s:tag>
+    <s:tag>Cheers</s:tag>
+    <s:tag>Chef Gift</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Foodie Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Hostess Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Peonies</s:tag>
+    <s:tag>Peony</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Wedding Gifts</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399638544502</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399638544502</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399638544502</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399638544502</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399638544502</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399638544502</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399638544502</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399638544502</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399638544502</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399637233782</id>
+    <published>2020-01-24T11:42:44-05:00</published>
+    <updated>2020-01-24T11:42:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/botanical-leaf-pattern-engraved-wooden-cutting-board"/>
+    <title>Botanical Leaf Pattern Engraved Wooden Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Leaf_Pattern_Cutting_Board_Listing_1.jpg?v=1579884196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/botanical-leaf-pattern-engraved-wooden-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our leaf-patterned cutting board features gorgeous botanical leaves in a whimsical pattern. Makes for a thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food-grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Available in your choice of maple, cherry, or walnut wood types and on boards sized 8" x 10", 11" x 14", and 14" x 22". Select your desired size and wood type from the drop-down menu.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Botanicals</s:tag>
+    <s:tag>Charcuterie</s:tag>
+    <s:tag>Charcuterie Board</s:tag>
+    <s:tag>Cheers</s:tag>
+    <s:tag>Chef Gift</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Foodie Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Hostess Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Leaf Pattern</s:tag>
+    <s:tag>Leaves</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399637233782</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399637233782</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399637233782</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399637233782</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399637233782</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399637233782</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399637233782</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399637233782</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399637233782</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399633956982</id>
+    <published>2020-01-24T11:40:46-05:00</published>
+    <updated>2020-01-24T11:40:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/happily-ever-after-engraved-wooden-cutting-board"/>
+    <title>Happily Ever After Engraved Wooden Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Happily_Ever_After_Cutting_Board_Listing_1.jpg?v=1579884077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/happily-ever-after-engraved-wooden-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Happily Ever After cutting board features a gorgeous botanical illustration and timeless modern typography. Makes for a thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Available in your choice of maple, cherry, or walnut wood types and on boards sized 8" x 10", 11" x 14", and 14" x 22". Select your desired size and wood type from the drop-down menu.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Botanicals</s:tag>
+    <s:tag>Charcuterie</s:tag>
+    <s:tag>Charcuterie Board</s:tag>
+    <s:tag>Cheers</s:tag>
+    <s:tag>Chef Gift</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Foodie Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Happily Ever After</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Hostess Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Wedding Gifts</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399633956982</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399633956982</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399633956982</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399633956982</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399633956982</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399633956982</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399633956982</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399633956982</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399633956982</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399629074550</id>
+    <published>2020-01-24T11:35:53-05:00</published>
+    <updated>2020-01-24T11:35:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/fresh-and-local-engraved-wooden-cutting-board"/>
+    <title>Fresh and Local Engraved Wooden Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>The Oyster&apos;s Pearl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Fresh_and_Local_Cutting_Board_Listing_2.jpg?v=1579883859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Oyster&#39;s Pearl<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/fresh-and-local-engraved-wooden-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Fresh and Local cutting board features modern calligraphy in a design that celebrates the art of keeping food both fresh and locally sourced. Makes for a thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Available in your choice of maple, cherry, or walnut wood types and on boards sized 8" x 10", 11" x 14", and 14" x 22". Select your desired size and wood type from the drop-down menu.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Charcuterie</s:tag>
+    <s:tag>Charcuterie Board</s:tag>
+    <s:tag>Cheers</s:tag>
+    <s:tag>Chef Gift</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fathers Day 2020</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Foodie Gift</s:tag>
+    <s:tag>Fresh and Local</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Hostess Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Shop Local</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399629074550</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399629074550</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399629074550</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399629074550</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399629074550</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399629074550</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399629074550</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399629074550</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399629074550</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399620096118</id>
+    <published>2020-01-24T11:27:16-05:00</published>
+    <updated>2020-01-24T11:27:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/peony-patterned-handmade-wooden-cutting-board"/>
+    <title>Peony Patterned Handmade Wooden Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Peony_Background_Cutting_Board_Listing_1.jpg?v=1579883384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/peony-patterned-handmade-wooden-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Peony Patterned cutting board features a beautiful floral design engraved on the front side. Makes for a thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Available in your choice of maple, cherry, or walnut wood types and on boards sized 8" x 10", 11" x 14", and 14" x 22". Select your desired size and wood type from the drop-down menu.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Chef Gift</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Floral Cutting Board</s:tag>
+    <s:tag>Florals</s:tag>
+    <s:tag>Foodie Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Kitchen Florals</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Peonies</s:tag>
+    <s:tag>Peony</s:tag>
+    <s:tag>Peony Pattern</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399620096118</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399620096118</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399620096118</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399620096118</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399620096118</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399620096118</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399620096118</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399620096118</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399620096118</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4183717543971</id>
+    <published>2019-10-07T12:07:51-04:00</published>
+    <updated>2019-10-07T12:07:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/cheers-and-charcuterie-engraved-wooden-cutting-board"/>
+    <title>Cheers And Charcuterie Engraved Wooden Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Cheers_and_Charcuterie_Cutting_Board_Listing_2.jpg?v=1570464526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/cheers-and-charcuterie-engraved-wooden-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Cheers And Charcuterie cutting board features a modern calligraphy in a design that celebrates the art of gathering with loved ones around delicious food and drink. Makes for a thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Available in your choice of maple, cherry, or walnut wood types and on boards sized 8" x 10", 11" x 14", and 14" x 22". Select your desired size and wood type from the drop-down menu.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Charcuterie</s:tag>
+    <s:tag>Charcuterie Board</s:tag>
+    <s:tag>Cheers</s:tag>
+    <s:tag>Chef Gift</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Foodie Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Hostess Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Wedding Gifts</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183717543971</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183717543971</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183717543971</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183717543971</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183717543971</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183717543971</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183717543971</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183717543971</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183717543971</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4183714005027</id>
+    <published>2019-10-07T12:04:08-04:00</published>
+    <updated>2019-10-07T12:04:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/custom-cutting-board-modern-art-deco-engraved-handmade-cutting-board-1"/>
+    <title>Dice, Slice, &amp; Chop Engraved Wooden Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Dice_Slice_Cutting_Board_Listing_1.jpg?v=1570464348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/custom-cutting-board-modern-art-deco-engraved-handmade-cutting-board-1">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Dice, Slice, &amp; Chop cutting board features a modern typographic design that celebrates a chef's expertise in the kitchen. Makes for a thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p>
+<p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p>
+<p>Available in your choice of maple, cherry, or walnut wood types and on boards sized 8" x 10", 11" x 14", and 14" x 22". Select your desired size and wood type from the drop-down menu.</p>
+<p>Please note that each cutting board is unique and made to order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Chef Gift</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Dice Slice Chop</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Foodie Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183714005027</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183714005027</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183714005027</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183714005027</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183714005027</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183714005027</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183714005027</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183714005027</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4183714005027</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/1749086765091</id>
+    <published>2019-06-05T11:26:14-04:00</published>
+    <updated>2019-06-05T11:26:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/custom-cutting-board-modern-art-deco-engraved-handmade-cutting-board"/>
+    <title>Modern Art Deco Custom Engraved Handmade Cutting Board</title>
+    <s:type>Cutting Board</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Art_Deco_Taylor_Cutting_Board_Listing_1.jpg?v=1559748813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Cutting Board<br>
+        <strong>Price: </strong>
+            44.00 - 78.00
+            <a href="https://wearegladfolk.com/products/custom-cutting-board-modern-art-deco-engraved-handmade-cutting-board">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our modern art deco custom cutting board features a gorgeous full scale linear pattern and bold surname in timeless typography. Makes for an incredibly thoughtful gift, a stunning piece of kitchen decor, and a treasured family heirloom.</p><p>Each piece is designed with love and made by hand in our Ohio workshop from locally sourced lumber. American-made and of the highest quality, we seal each cutting board with organic food grade mineral oil before sending it off with care to you. Proudly display the front side; cut on the back side! Hand wash only, please.</p><p>Please note that each cutting board is unique and made-to-order; wood tone and grain will vary from piece to piece.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Made</s:tag>
+    <s:tag>Anniversary Gift</s:tag>
+    <s:tag>Art Deco</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>custom</s:tag>
+    <s:tag>Custom Cutting Board</s:tag>
+    <s:tag>Cutting Board</s:tag>
+    <s:tag>Cutting Boards</s:tag>
+    <s:tag>Engraved</s:tag>
+    <s:tag>Engraved Cutting Board</s:tag>
+    <s:tag>Engraved Cutting Boards</s:tag>
+    <s:tag>Engraved Wedding Gift</s:tag>
+    <s:tag>Fifth Anniversary</s:tag>
+    <s:tag>Fifth Anniversary Wood Gift</s:tag>
+    <s:tag>Handmade</s:tag>
+    <s:tag>Heirloom Gifts</s:tag>
+    <s:tag>Heirloom Wood Gift</s:tag>
+    <s:tag>Laser Engraved</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Cutting Board</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>personalized</s:tag>
+    <s:tag>Personalized Cutting Board</s:tag>
+    <s:tag>Personalized Kitchen Decor</s:tag>
+    <s:tag>Personalized Wedding Gift</s:tag>
+    <s:tag>Surname</s:tag>
+    <s:tag>Unique Wedding Gift</s:tag>
+    <s:tag>Walnut</s:tag>
+    <s:tag>Wedding Gifts</s:tag>
+    <s:tag>Woodworking</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1749086765091</id>
+      <title>Maple / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1749086765091</id>
+      <title>Maple / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1749086765091</id>
+      <title>Maple / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1749086765091</id>
+      <title>Cherry / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1749086765091</id>
+      <title>Cherry / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1749086765091</id>
+      <title>Cherry / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1749086765091</id>
+      <title>Walnut / 8 × 10</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1749086765091</id>
+      <title>Walnut / 11 × 14</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1749086765091</id>
+      <title>Walnut / 14 × 22</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

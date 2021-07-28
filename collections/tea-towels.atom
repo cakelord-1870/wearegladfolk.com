@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wearegladfolk.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wearegladfolk.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wearegladfolk.com/collections/tea-towels.atom"/>
+  <title>Gladfolk</title>
+  <updated>2020-01-24T11:14:20-05:00</updated>
+  <author>
+    <name>Gladfolk</name>
+  </author>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399610626166</id>
+    <published>2020-01-24T11:14:20-05:00</published>
+    <updated>2020-01-24T11:14:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/o-holy-night-a-thrill-of-hope-set-of-two-christmas-tea-towels"/>
+    <title>O Holy Night A Thrill of Hope Set of Two Christmas Tea Towels</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/A_Thrill_of_Hope_Weary_World_Tea_Towel_Set_Listing_1.jpg?v=1579882481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>"A Thrill Of Hope" / "The Weary World Rejoices"</span><br></p>
+<p>This listing is for a set of TWO matching white tea towels with our original O Holy Night lyrical designs screen printed by hand in black ink.</p>
+<p>This fun &amp; festive design - featuring a beautiful blend of modern and script typography - makes for a cozy kitchen addition for the holiday season! Both decorative and functional, our tea towels work double duty decorating for Christmas time as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</p>
+<p>Each individual tea towel measures 28" x 28". </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas_Decor</s:tag>
+    <s:tag>Christmas_Tea_Towel</s:tag>
+    <s:tag>Christmas_Towel</s:tag>
+    <s:tag>Farmhouse_Christmas</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Holiday Decor</s:tag>
+    <s:tag>Holiday_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen_towel</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>O Holy Night</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Tea_Towel_Set</s:tag>
+    <s:tag>The Weary World Rejoices</s:tag>
+    <s:tag>White Tea Towel</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399610626166</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399608889462</id>
+    <published>2020-01-24T11:11:33-05:00</published>
+    <updated>2020-01-24T11:11:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/eat-drink-and-be-merry-tea-towel"/>
+    <title>Eat, Drink, and Be Merry Tea Towel</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Eat_Drink_Be_Merry_NEW_Tea_Towel_Listing_1.jpg?v=1579882333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Eat, Drink, and Be Merry"</p>
+<p>This listing is for one white tea towel with our original Peace on Earth design screen printed by hand in crisp black ink.</p>
+<p>This fun &amp; festive design - featuring a modern typeface - makes for a cozy and celebratory kitchen addition for the holiday season! Both decorative and functional, our tea towels work double duty decorating for Christmas time as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</p>
+<p>Each individual tea towel measures approximately 28" x 28".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Decor</s:tag>
+    <s:tag>Christmas Tea Towel</s:tag>
+    <s:tag>Christmas_Decor</s:tag>
+    <s:tag>Eat Drink Be Merry</s:tag>
+    <s:tag>Farmhouse_Christmas</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Good Tidings</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Holiday Decor</s:tag>
+    <s:tag>Holiday_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen_Decor</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Christmas</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>White Tea Towel</s:tag>
+    <s:tag>Winter_Decor</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399608889462</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399607644278</id>
+    <published>2020-01-24T11:09:47-05:00</published>
+    <updated>2020-01-24T11:09:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/peace-on-earth-tea-towel"/>
+    <title>Peace On Earth Tea Towel</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Peace_On_Earth_Tea_Towel_Listing_1.jpg?v=1579882241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Let There Be Peace On Earth"</p>
+<p>This listing is for one white tea towel with our original Peace on Earth design screen printed by hand in crisp black ink.</p>
+<p>This fun &amp; festive design - featuring a modern typeface - makes for a cozy and celebratory kitchen addition for the holiday season! Both decorative and functional, our tea towels work double duty decorating for Christmas time as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</p>
+<p>Each individual tea towel measures approximately 28" x 28".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Decor</s:tag>
+    <s:tag>Christmas Tea Towel</s:tag>
+    <s:tag>Christmas_Decor</s:tag>
+    <s:tag>Farmhouse_Christmas</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Good Tidings</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Holiday Decor</s:tag>
+    <s:tag>Holiday_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen_Decor</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Christmas</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>Peace On Earth</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>White Tea Towel</s:tag>
+    <s:tag>Winter_Decor</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399607644278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399605612662</id>
+    <published>2020-01-24T11:07:30-05:00</published>
+    <updated>2020-01-24T11:07:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/tidings-of-comfort-and-joy-tea-towel"/>
+    <title>Tidings Of Comfort And Joy Tea Towel</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Tidings_of_Comfort_and_Joy_Tea_Towel_Listing_1.jpg?v=1579882078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Tidings Of Comfort And Joy"</p>
+<p>This listing is for one white tea towel with God Rest Ye Merry Gentlemen lyrics design screen printed by hand in crisp black ink.</p>
+<p>This fun &amp; festive design - featuring a modern typeface - makes for a cozy and celebratory kitchen addition for the holiday season! Both decorative and functional, our tea towels work double duty decorating for Christmas time as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</p>
+<p>Each individual tea towel measures approximately 28" x 28".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Decor</s:tag>
+    <s:tag>Christmas Tea Towel</s:tag>
+    <s:tag>Christmas_Decor</s:tag>
+    <s:tag>Comfort And Joy</s:tag>
+    <s:tag>Farmhouse_Christmas</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Good Tidings</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Holiday Decor</s:tag>
+    <s:tag>Holiday_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen_Decor</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Tidings Of Comfort And Joy</s:tag>
+    <s:tag>White Tea Towel</s:tag>
+    <s:tag>Winter_Decor</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399605612662</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/4399603286134</id>
+    <published>2020-01-24T11:04:28-05:00</published>
+    <updated>2020-01-24T11:04:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/fa-la-la-la-la-tea-towel"/>
+    <title>Fa La La La La Tea Towel</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Fa_La_La_Tea_Towel_Listing_1.jpg?v=1579881971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Fa La La La La"</p>
+<p>This listing is for one white tea towel with our original "Fa La La La La" design screen printed by hand in crisp black ink.</p>
+<p>This fun &amp; festive design - featuring a modern typeface - makes for a cozy and celebratory kitchen addition for the holiday season! Both decorative and functional, our tea towels work double duty decorating for Christmas time as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</p>
+<p>Each individual tea towel measures approximately 28" x 28".</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas Decor</s:tag>
+    <s:tag>Christmas Tea Towel</s:tag>
+    <s:tag>Christmas_Decor</s:tag>
+    <s:tag>Deck The Halls</s:tag>
+    <s:tag>Deck The Halls Decor</s:tag>
+    <s:tag>Deck The Halls Lyrics</s:tag>
+    <s:tag>Fa La La</s:tag>
+    <s:tag>Fa La La La La</s:tag>
+    <s:tag>Farmhouse_Christmas</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Holiday Decor</s:tag>
+    <s:tag>Holiday_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen_Decor</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>White Tea Towel</s:tag>
+    <s:tag>Winter_Decor</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/4399603286134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/477523607587</id>
+    <published>2018-01-17T02:46:48-05:00</published>
+    <updated>2018-01-17T02:46:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/let-it-snow-tea-towel-modern-farmhouse-christmas-decor-winter-holiday-gray-white-let-it-snow-christmas-towel-design-free-shipping"/>
+    <title>Let It Snow Tea Towel</title>
+    <s:type>Towels</s:type>
+    <s:vendor>The Oyster&apos;s Pearl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/il_fullxfull.1365700212_y2u5.jpg?v=1516175209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Oyster&#39;s Pearl<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Let It Snow"</p>
+<p>This listing is for one gray tea towel with our original "Let It Snow" design screen printed by hand in white ink.</p>
+<p>This simple &amp; sweet design - featuring modern distressed typography - makes for a cozy and festive kitchen addition for the holiday season! Both decorative and functional, our gray towels work double duty decorating for Christmas time as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</p>
+<p>Each individual tea towel measures 28" x 28".</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas_Decor</s:tag>
+    <s:tag>Christmas_Gift</s:tag>
+    <s:tag>Farmhouse_Christmas</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Gray_Tea_Towel</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Holiday Decor</s:tag>
+    <s:tag>Holiday_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen_Decor</s:tag>
+    <s:tag>Let_It_Snow</s:tag>
+    <s:tag>Let_It_Snow_Design</s:tag>
+    <s:tag>Let_It_Snow_Towel</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Unique_Christmas</s:tag>
+    <s:tag>Winter_Decor</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/477523607587</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/477523410979</id>
+    <published>2018-01-17T02:46:36-05:00</published>
+    <updated>2018-01-17T02:46:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/noel-tea-towel-modern-farmhouse-christmas-decor-winter-holiday-kitchen-decor-gray-and-white-calligraphy-tea-towel-free-shipping"/>
+    <title>Noël Christmas Tea Towel</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/il_fullxfull.1350481483_gwwi.jpg?v=1516175196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"noël"</p>
+<p>This listing is for one gray tea towel with our original "noël" design screen printed by hand in white ink.</p>
+<p>This simple &amp; sweet design - featuring a whimsical wreath and lovely script typography - makes for a cozy and festive kitchen addition for the holiday season! Both decorative and functional, our gray towels work double duty decorating for Christmas time as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</p>
+<p>Each individual tea towel measures 28" x 28".</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas_Decor</s:tag>
+    <s:tag>Christmas_Kitchen</s:tag>
+    <s:tag>Christmas_Tea_Towel</s:tag>
+    <s:tag>Farmhouse_Christmas</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Gray_Tea_Towel</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Holiday Decor</s:tag>
+    <s:tag>Holiday_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen_Decor</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>Noël</s:tag>
+    <s:tag>Noël_Decor</s:tag>
+    <s:tag>Noël_Tea_Towel</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Winter_Decor</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/477523410979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/1375052988451</id>
+    <published>2018-01-17T02:45:49-05:00</published>
+    <updated>2018-01-17T02:45:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/autumn-themed-set-of-two-tea-towels"/>
+    <title>Autumn Themed Set of Two Tea Towels</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Autumn_Set_of_Two_Tea_Towels_Listing_1_SMALL.jpg?v=1533235306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>• Autumn Leaves design</span><br><span>• "Autumn Is A Second Spring Where Every Leaf Is A Flower" design</span><br><br><span>This listing is for a set of TWO matching gray tea towels with our original Autumn themed designs screen printed by hand in white ink. </span><br><br><span>This simple &amp; sweet set - featuring one hand drawn Autumn leaf illustration, and one typographic Autumn quote design - makes for a unique and cozy seasonal addition in the kitchen or fun housewarming gift! Both decorative and functional, our gray towels work double duty decorating your home as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</span><br><br><span>Each individual tea towel measures 28" x 28".</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autumn</s:tag>
+    <s:tag>Autumn Accessories</s:tag>
+    <s:tag>Autumn Decor</s:tag>
+    <s:tag>Autumn Is A Second Spring</s:tag>
+    <s:tag>Autumn Kitchen Decor</s:tag>
+    <s:tag>Autumn Leaves</s:tag>
+    <s:tag>Autumn Quote</s:tag>
+    <s:tag>Autumn Quote Towel</s:tag>
+    <s:tag>Autumn Tea Towel</s:tag>
+    <s:tag>Autumn Tea Towels</s:tag>
+    <s:tag>Autumn Towel</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>Dish Towel</s:tag>
+    <s:tag>Fall Decor</s:tag>
+    <s:tag>Fall Gift</s:tag>
+    <s:tag>Fall Leaves</s:tag>
+    <s:tag>Fall Tea Towel</s:tag>
+    <s:tag>Fall Towel</s:tag>
+    <s:tag>farm</s:tag>
+    <s:tag>Gray_Tea_Towel</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Home and Living</s:tag>
+    <s:tag>Home Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen Decor</s:tag>
+    <s:tag>Linens</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Farmhouse</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Seasonal Decor</s:tag>
+    <s:tag>Set of Tea Towels</s:tag>
+    <s:tag>Tea Towel</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Tea_Towel_Set</s:tag>
+    <s:tag>typography</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1375052988451</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/517886345251</id>
+    <published>2018-01-17T02:45:49-05:00</published>
+    <updated>2018-01-17T02:45:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/hand-and-dish-set-of-two-tea-towels"/>
+    <title>Hand and Dish Set of Two Tea Towels</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Hand_Dish_Set_of_Two_Tea_Towels_Listing_1.jpg?v=1519323496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Hand" / "Dish"</p>
+<p>This listing is for a set of two matching gray tea towels with our original "Hand" and "Dish" designs screen printed by hand in white ink.</p>
+<p class="p1"><span class="s1">This simple and sweet set - featuring vintage-inspired typography - makes for a unique and cozy kitchen addition or fun housewarming gift! Both decorative and functional, our gray towels work double duty decorating your home as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</span></p>
+<p class="p1"><span class="s1">Each individual tea towel measures 28" x 28".</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:tag>Dish Towel</s:tag>
+    <s:tag>farm</s:tag>
+    <s:tag>Gray_Tea_Towel</s:tag>
+    <s:tag>Hand</s:tag>
+    <s:tag>hand_lettered</s:tag>
+    <s:tag>hand_lettered_shirt</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Home and Living</s:tag>
+    <s:tag>Home Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen Decor</s:tag>
+    <s:tag>Linens</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Farmhouse</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>Mothers Day 2020</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Tea Towel</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Tea_Towel_Set</s:tag>
+    <s:tag>typography</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/517886345251</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/477522427939</id>
+    <published>2018-01-17T02:45:49-05:00</published>
+    <updated>2018-01-17T02:45:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/christmas-tea-towel-set-of-2-silent-night-holy-night-all-is-calm-all-is-bright-design-modern-farmhouse-christmas-decor-free-shipping"/>
+    <title>Silent Night Holy Night, All Is Calm All Is Bright Set of Two Tea Towels</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/il_fullxfull.1350572041_36gt.jpg?v=1516175149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Silent Night Holy Night" / "All Is Calm All Is Bright"</p>
+<p>This listing is for a set of two matching gray tea towels with our original "Silent Night" design screen printed by hand in white ink.</p>
+<p>This simple &amp; sweet design - featuring a beautiful blend of modern and vintage typography - makes for a cozy and festive kitchen addition for the holiday season! Both decorative and functional, our gray towels work double duty decorating for Christmas time as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</p>
+<p>Each individual tea towel measures 28" x 28".</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All_Is_Bright</s:tag>
+    <s:tag>All_Is_Calm</s:tag>
+    <s:tag>Christmas_Decor</s:tag>
+    <s:tag>Christmas_Tea_Towel</s:tag>
+    <s:tag>Christmas_Towel</s:tag>
+    <s:tag>Farmhouse_Christmas</s:tag>
+    <s:tag>Gray_Tea_Towel</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Holiday Decor</s:tag>
+    <s:tag>Holiday_Decor</s:tag>
+    <s:tag>Holy_Night</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>Silent_Night</s:tag>
+    <s:tag>Silent_Night_Towel</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Tea_Towel_Set</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/477522427939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/477521510435</id>
+    <published>2018-01-17T02:44:50-05:00</published>
+    <updated>2018-01-17T02:44:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/merry-and-bright-tea-towel-modern-farmhouse-christmas-decor-winter-holiday-gray-white-merry-bright-towel-design-free-shipping"/>
+    <title>Merry and Bright Tea Towel</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/il_fullxfull.1350532999_lwx9.jpg?v=1516175090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Merry and Bright"</p>
+<p>This listing is for one gray tea towel with our original "Merry and Bright" design screen printed by hand in white ink.</p>
+<p>This simple &amp; sweet design - featuring modern distressed typography - makes for a cozy and festive kitchen addition for the holiday season! Both decorative and functional, our gray towels work double duty decorating for Christmas time as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</p>
+<p>Each individual tea towel measures 28" x 28".</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bright</s:tag>
+    <s:tag>Christmas_Decor</s:tag>
+    <s:tag>Farmhouse_Christmas</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Gray_Tea_Towel</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Holiday Decor</s:tag>
+    <s:tag>Holiday_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen_Decor</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Merry</s:tag>
+    <s:tag>Merry_and_Bright</s:tag>
+    <s:tag>Merry_Bright_Design</s:tag>
+    <s:tag>Merry_Bright_Towel</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Winter_Decor</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/477521510435</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/1567606046755</id>
+    <published>2018-01-17T02:43:00-05:00</published>
+    <updated>2018-01-17T02:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/fresh-and-local-gray-tea-towel"/>
+    <title>Fresh and Local Gray Tea Towel</title>
+    <s:type>Towels</s:type>
+    <s:vendor>The Oyster&apos;s Pearl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Fresh_and_Local_Tea_Towel_Listing_1.jpg?v=1551727397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Oyster&#39;s Pearl<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p class="p1"><span>"Fresh and Local"<br><br>This listing is for one gray tea towel with our original "Fresh and Local" design screen printed by hand in white ink. <br><br>This simple and unique design makes a lovely piece of kitchen decor or thoughtful gift! Both decorative and functional, our gray towels work double duty decorating your home as well as easily drying hands and dishes. Our cotton-linen blend towel is safe to throw in the washing machine on cold.</span><br><br><span>Each individual tea towel measures approximately 28" x 28".</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>farm</s:tag>
+    <s:tag>Farm Decor</s:tag>
+    <s:tag>Farm to Table</s:tag>
+    <s:tag>Farmer Decor</s:tag>
+    <s:tag>Farmers Market Towel</s:tag>
+    <s:tag>Farmhouse</s:tag>
+    <s:tag>Farmhouse Decor</s:tag>
+    <s:tag>Farmhouse Towel</s:tag>
+    <s:tag>flour_sack</s:tag>
+    <s:tag>flour_sack_towel</s:tag>
+    <s:tag>Fresh and Local</s:tag>
+    <s:tag>Fresh and Local Decor</s:tag>
+    <s:tag>Fresh Local Towel</s:tag>
+    <s:tag>gift_for_mom</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen accessories</s:tag>
+    <s:tag>kitchen_decor</s:tag>
+    <s:tag>kitchen_tea_towel</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Farmhouse</s:tag>
+    <s:tag>Modern Farmhouse Kitchen</s:tag>
+    <s:tag>modern_tea_towel</s:tag>
+    <s:tag>Nature may heal</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>organic_tea_towel</s:tag>
+    <s:tag>Places to play in and pray in</s:tag>
+    <s:tag>Rustic Kitchen Decor</s:tag>
+    <s:tag>Rustic Kitchen Tea Towel</s:tag>
+    <s:tag>script_tea_towel</s:tag>
+    <s:tag>Shop Local</s:tag>
+    <s:tag>SS19</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Unique Kitchen Decor</s:tag>
+    <s:tag>Vintage Kitchen</s:tag>
+    <s:tag>Vintage Modern Kitchen</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1567606046755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/1375051644963</id>
+    <published>2018-01-17T02:43:00-05:00</published>
+    <updated>2018-01-17T02:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/autumn-quote-tea-towel"/>
+    <title>Autumn Quote Tea Towel</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Autumn_Second_Spring_Tea_Towel_Listing_1_SMALL.jpg?v=1533234636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p class="p1"><span>"Autumn is a second spring where every leaf is a flower." - Philosopher Albert Camus</span><br><br><span>This listing is for one gray tea towel with our original Autumn quote design, screen printed by hand in bright white ink. </span><br><br><span>This simple &amp; unique design - featuring classic serif and whimsical script fonts - makes a lovely piece of seasonal kitchen decor or a thoughtful gift for loved ones! Both decorative and functional, our gray towels work double duty decorating your home as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autumn</s:tag>
+    <s:tag>Autumn Accessories</s:tag>
+    <s:tag>Autumn Decor</s:tag>
+    <s:tag>Autumn Is A Second Spring</s:tag>
+    <s:tag>Autumn Kitchen Decor</s:tag>
+    <s:tag>Autumn Quote</s:tag>
+    <s:tag>Autumn Quote Towel</s:tag>
+    <s:tag>Autumn Tea Towel</s:tag>
+    <s:tag>Autumn Towel</s:tag>
+    <s:tag>Fall Decor</s:tag>
+    <s:tag>Fall Leaves</s:tag>
+    <s:tag>Fall Tea Towel</s:tag>
+    <s:tag>Fall Towel</s:tag>
+    <s:tag>Farm Decor</s:tag>
+    <s:tag>Farmhouse Decor</s:tag>
+    <s:tag>Farmhouse Towel</s:tag>
+    <s:tag>flour_sack</s:tag>
+    <s:tag>flour_sack_towel</s:tag>
+    <s:tag>gift_for_mom</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen accessories</s:tag>
+    <s:tag>kitchen_decor</s:tag>
+    <s:tag>kitchen_tea_towel</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Farmhouse</s:tag>
+    <s:tag>Modern Farmhouse Kitchen</s:tag>
+    <s:tag>modern_tea_towel</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>organic_tea_towel</s:tag>
+    <s:tag>Rustic Kitchen Decor</s:tag>
+    <s:tag>Rustic Kitchen Tea Towel</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Unique Kitchen Decor</s:tag>
+    <s:tag>Vintage Modern Kitchen</s:tag>
+    <s:tag>Where Every Leaf Is A Flower</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1375051644963</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/1375044894755</id>
+    <published>2018-01-17T02:43:00-05:00</published>
+    <updated>2018-01-17T02:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/autumn-leaves-tea-towel"/>
+    <title>Autumn Leaves Tea Towel</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Autumn_Leaves_Tea_Towel_Listing_1.jpg?v=1533233212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p class="p1"><span>This listing is for one gray tea towel with our original hand-drawn Autumn Leaves design, screen printed by hand in bright white ink. </span><br><br><span>This simple &amp; unique design - featuring organic leaf shapes and whimsical nature illustrations - makes a lovely piece of seasonal kitchen decor or a thoughtful gift for loved ones! Both decorative and functional, our gray towels work double duty decorating your home as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</span><br><br><span>Each individual tea towel measures 28" x 28".</span></p>
+<p class="p1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autumn</s:tag>
+    <s:tag>Autumn Accessories</s:tag>
+    <s:tag>Autumn Decor</s:tag>
+    <s:tag>Autumn Kitchen Decor</s:tag>
+    <s:tag>Autumn Leaves</s:tag>
+    <s:tag>Autumn Tea Towel</s:tag>
+    <s:tag>Autumn Towel</s:tag>
+    <s:tag>Fall Decor</s:tag>
+    <s:tag>Fall Leaves</s:tag>
+    <s:tag>Fall Tea Towel</s:tag>
+    <s:tag>Fall Towel</s:tag>
+    <s:tag>Farm Decor</s:tag>
+    <s:tag>Farmhouse Decor</s:tag>
+    <s:tag>Farmhouse Towel</s:tag>
+    <s:tag>flour_sack</s:tag>
+    <s:tag>flour_sack_towel</s:tag>
+    <s:tag>gift_for_mom</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen accessories</s:tag>
+    <s:tag>kitchen_decor</s:tag>
+    <s:tag>kitchen_tea_towel</s:tag>
+    <s:tag>Leaf Illustration</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Farmhouse</s:tag>
+    <s:tag>Modern Farmhouse Kitchen</s:tag>
+    <s:tag>modern_tea_towel</s:tag>
+    <s:tag>Nature Tea Towel</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>organic_tea_towel</s:tag>
+    <s:tag>Rustic Kitchen Decor</s:tag>
+    <s:tag>Rustic Kitchen Tea Towel</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Unique Kitchen Decor</s:tag>
+    <s:tag>Vintage Modern Kitchen</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/1375044894755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/517946703907</id>
+    <published>2018-01-17T02:43:00-05:00</published>
+    <updated>2018-01-17T02:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/farm-to-table-tea-towel"/>
+    <title>Farm to Table Tea Towel</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/Farm_to_Table_Tea_Towel_Listing_1.jpg?v=1519330909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span>"Farm to Table" </span><br><br><span>This listing is for one gray tea towel with our original "Farm to Table" design screen printed by hand in white ink. </span><br><br><span>This simple &amp; unique design - featuring modern, distressed calligraphy and some fun fork &amp; farm imagery - makes a lovely piece of kitchen decor or thoughtful gift for favorite farmer or gardener! Both decorative and functional, our gray towels work double duty decorating your home as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</span><br><br><span>Each individual tea towel measures 28" x 28".</span></p>
+<p class="p1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>farm</s:tag>
+    <s:tag>Farm Decor</s:tag>
+    <s:tag>Farm To Fork</s:tag>
+    <s:tag>Farm to Table</s:tag>
+    <s:tag>Farm To Table Tea Towel</s:tag>
+    <s:tag>Farm Towel</s:tag>
+    <s:tag>Farmer Decor</s:tag>
+    <s:tag>Farmers Market Towel</s:tag>
+    <s:tag>Farmhouse Decor</s:tag>
+    <s:tag>Farmhouse Towel</s:tag>
+    <s:tag>flour_sack</s:tag>
+    <s:tag>flour_sack_towel</s:tag>
+    <s:tag>gift_for_mom</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen accessories</s:tag>
+    <s:tag>kitchen_decor</s:tag>
+    <s:tag>kitchen_tea_towel</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern Farmhouse</s:tag>
+    <s:tag>Modern Farmhouse Kitchen</s:tag>
+    <s:tag>modern_tea_towel</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>organic_tea_towel</s:tag>
+    <s:tag>Rustic Kitchen Decor</s:tag>
+    <s:tag>Rustic Kitchen Tea Towel</s:tag>
+    <s:tag>script_tea_towel</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Unique Kitchen Decor</s:tag>
+    <s:tag>Vintage Modern Kitchen</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/517946703907</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/477519380515</id>
+    <published>2018-01-17T02:42:15-05:00</published>
+    <updated>2018-01-17T02:42:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/christmas-tea-towels-set-of-2-most-wonderful-time-of-the-year-happiest-season-of-all-design-modern-farmhouse-christmas-free-shipping"/>
+    <title>Most Wonderful Time Of The Year Set of Two Christmas Tea Towels</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/il_fullxfull.1365741608_dx6p.jpg?v=1516174935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"It's The Most Wonderful Time Of The Year" / "It's The Hap-Happiest Season Of All"</p>
+<p>This listing is for a set of TWO matching gray tea towels with our original "Most Wonderful Time Of Year" design screen printed by hand in white ink.</p>
+<p>This simple &amp; sweet design - featuring a beautiful blend of modern and vintage typography - makes for a cozy and festive kitchen addition for the holiday season! Both decorative and functional, our gray towels work double duty decorating for Christmas time as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</p>
+<p>Each individual tea towel measures 28" x 28".</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas_Decor</s:tag>
+    <s:tag>Christmas_Tea_Towel</s:tag>
+    <s:tag>Christmas_Towel</s:tag>
+    <s:tag>Farmhouse_Christmas</s:tag>
+    <s:tag>Gray_Tea_Towel</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Hap_Happiest_Season</s:tag>
+    <s:tag>Holiday Decor</s:tag>
+    <s:tag>Holiday_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Kitchen_towel</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>Most_Wonderful_Time</s:tag>
+    <s:tag>Of_All</s:tag>
+    <s:tag>Of_The_Year</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Tea_Towel_Set</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/477519380515</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/477519347747</id>
+    <published>2018-01-17T02:42:14-05:00</published>
+    <updated>2018-01-17T02:42:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/joy-to-the-world-tea-towel-modern-farmhouse-christmas-decor-winter-holiday-gray-and-white-christmas-linen-towel-design-free-shipping"/>
+    <title>Joy To The World Tea Towel</title>
+    <s:type>Towels</s:type>
+    <s:vendor>The Oyster&apos;s Pearl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/il_fullxfull.1365753288_o4yz.jpg?v=1516174934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Oyster&#39;s Pearl<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Joy To The World"</p>
+<p>This listing is for one gray tea towel with our original "Joy To The World" design screen printed by hand in white ink.</p>
+<p>This simple &amp; sweet design - featuring whimsical and modern distressed typography - makes for a cozy and festive kitchen addition for the holiday season! Both decorative and functional, our gray towels work double duty decorating for Christmas time as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</p>
+<p>Each individual tea towel measures 28" x 28".</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas_Decor</s:tag>
+    <s:tag>Christmas_Gift</s:tag>
+    <s:tag>Farmhouse_Christmas</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Gray_Tea_Towel</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Holiday Decor</s:tag>
+    <s:tag>Holiday_Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Joy_To_The_World</s:tag>
+    <s:tag>Joy_to_World</s:tag>
+    <s:tag>Joy_Towel</s:tag>
+    <s:tag>Kitchen_Decor</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Unique_Christmas</s:tag>
+    <s:tag>Winter_Decor</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/477519347747</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wearegladfolk.com/products/477516267555</id>
+    <published>2018-01-17T02:38:18-05:00</published>
+    <updated>2018-01-17T02:38:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wearegladfolk.com/products/christmas-tea-towel-set-of-2-o-holy-night-gray-white-towel-o-holy-night-typewriter-design-modern-farmhouse-christmas-free-shipping"/>
+    <title>O Holy Night Set of Two Christmas Tea Towels</title>
+    <s:type>Towels</s:type>
+    <s:vendor>Gladfolk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2198/6617/products/il_fullxfull.1350578335_s6vr.jpg?v=1516174698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gladfolk<br>
+        <strong>Type: </strong>Towels<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Truly he taught us to love one another" / "His law is love and his gospel is peace"</p>
+<p>This listing is for a set of two matching gray tea towels with our original "O Holy Night" lyrics design screen printed by hand in white ink.</p>
+<p>This simple &amp; sweet design - featuring vintage-inspired typewriter text - makes for a cozy and festive kitchen addition for the holiday season! Both decorative and functional, our gray towels work double duty decorating for Christmas time as well as easily drying hands and dishes. 100% cotton and safe to throw in the washing machine on cold.</p>
+<p>Each individual tea towel measures 28" x 28".</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas_Decor</s:tag>
+    <s:tag>Christmas_Tea_Towel</s:tag>
+    <s:tag>Christmas_Towel</s:tag>
+    <s:tag>Farmhouse_Christmas</s:tag>
+    <s:tag>Farmhouse_Kitchen</s:tag>
+    <s:tag>Gray_and_White_Towel</s:tag>
+    <s:tag>Handprinted</s:tag>
+    <s:tag>Holiday Decor</s:tag>
+    <s:tag>Housewares</s:tag>
+    <s:tag>Made in-house</s:tag>
+    <s:tag>Modern_Farmhouse</s:tag>
+    <s:tag>O_Holy_Night</s:tag>
+    <s:tag>O_Holy_Night_Decor</s:tag>
+    <s:tag>O_Holy_Night_Lyrics</s:tag>
+    <s:tag>O_Holy_Night_Song</s:tag>
+    <s:tag>Set_of_2</s:tag>
+    <s:tag>Tea Towels</s:tag>
+    <s:tag>Typewriter_Design</s:tag>
+    <s:variant>
+      <id>https://wearegladfolk.com/products/477516267555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
